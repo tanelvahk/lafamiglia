@@ -1115,7 +1115,7 @@ nav.main-menu #mobile-menu ul ul:after {
 	transform: translateY(-50%); 
 }
 .intro-text h3 {
-	color: rgb(58, 136, 48);
+	color: pink
 	text-align: center;
 	padding: 0;
 	margin: 0;
