@@ -1,1 +1,1 @@
-<?php echo `git pull -f 2>&1`
+<?php echo `git pull -f `;
