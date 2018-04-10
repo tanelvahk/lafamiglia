@@ -1,0 +1,2748 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Look v1.5.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-12-30 19:41+0000\n"
+"Last-Translator: service <service@petzold.it>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ look
+#: 404.php:16
+msgid "Sorry! Page you are looking can&rsquo;t be found."
+msgstr "Entschuldigung, die angeforderte Seite kann nicht gefunden werden."
+
+# @ look
+#: 404.php:17
+msgid "Go back to the "
+msgstr "Zurück zu "
+
+# @ look
+#: 404.php:17
+msgid "homepage"
+msgstr "Homepage"
+
+# @ look
+#: author-bio.php:2
+msgid "Published by"
+msgstr "Veröffentlicht von"
+
+# @ look
+#: author-bio.php:15
+#, php-format
+msgid "View all posts by %s"
+msgstr "Alle Beiträge von %s"
+
+# @ look
+#: comments.php:31
+msgid "Comments are closed."
+msgstr "Die Kommentarfunktion ist deaktiviert."
+
+# @ look
+#: comments.php:40
+msgid "Your name*"
+msgstr "Ihr Name *"
+
+# @ look
+#: comments.php:43
+msgid "Your email*"
+msgstr "Ihre E-Mail Adresse *"
+
+# @ look
+#: comments.php:48
+msgid "Website"
+msgstr "Webseite"
+
+# @ look
+#: comments.php:54
+msgid "Leave your comment"
+msgstr "Hinterlasse einen Kommentar zu"
+
+# @ look
+#: comments.php:60
+msgid "Your comment"
+msgstr "Ihr Kommentar"
+
+# @ look
+#: comments.php:63
+msgid "Post comment"
+msgstr "Schreiben Sie einen Kommentar"
+
+# @ look
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+# @ look
+#: content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sind Sie bereit, Ihren ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Hier geht es los!</a>."
+
+# @ look
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Entschuldigung, aber nichts passt zu Ihrem Suchbegriff. Bitte versuchen Sie es erneut mit einem anderen Suchbegriff."
+
+# @ look
+#: content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es wurden keine Inhalte zum eingegebenen Suchbegriff gefunden."
+
+# @ look
+#: includes/class-color-swatch.php:177
+msgid "Product Swatch Gallery"
+msgstr "Produktgalerie"
+
+# @ look
+#: includes/class-color-swatch.php:280 includes/class-color-swatch.php:292
+msgid "Delete image"
+msgstr "Bild löschen"
+
+# @ look
+#: includes/class-color-swatch.php:280 includes/class-color-swatch.php:292
+msgid "Delete"
+msgstr "Löschen"
+
+# @ look
+#: includes/class-color-swatch.php:292
+msgid "Add Images to Product Gallery"
+msgstr "Bilder zur Galerie hinzufügen"
+
+# @ look
+#: includes/class-color-swatch.php:292
+msgid "Add to gallery"
+msgstr "Galerie hinzufügen/bearbeiten"
+
+# @ look
+#: includes/class-color-swatch.php:292
+msgid "Add product gallery images"
+msgstr "Produktgaleriebilder hinzufügen"
+
+# @ look
+#: includes/class-color-swatch.php:315 includes/class-color-swatch.php:389
+msgid "Thumbnail"
+msgstr "Miniaturbild"
+
+# @ look
+#: includes/class-color-swatch.php:320 includes/class-color-swatch.php:395
+msgid "Upload/Add image"
+msgstr "Bilder hochladen"
+
+# @ look
+#: includes/class-color-swatch.php:321 includes/class-color-swatch.php:396
+msgid "Remove image"
+msgstr "Bild entfernen"
+
+# @ woocommerce
+# @ look
+#: includes/class-color-swatch.php:346 includes/class-color-swatch.php:421
+msgid "Choose an image"
+msgstr "Wählen Sie ein Bild"
+
+# @ woocommerce
+# @ look
+#: includes/class-color-swatch.php:348 includes/class-color-swatch.php:423
+msgid "Use image"
+msgstr "Benutze Bild"
+
+# @ look
+#: includes/class-page-title.php:35
+msgid "Youtube video url"
+msgstr "YouTube Profile URL"
+
+# @ look
+#: includes/class-page-title.php:46
+msgid "Page Option"
+msgstr "Seiten Einstellungen"
+
+# @ look
+#: includes/class-page-title.php:50
+msgid "Page Title Style"
+msgstr "Seiten Titel Stil"
+
+# @ look
+#: includes/class-page-title.php:64
+msgid "Show Title"
+msgstr "Titel anzeigen"
+
+# @ look
+#: includes/class-page-title.php:75
+msgid "Page Caption"
+msgstr "Seiten Untertitel"
+
+# @ look
+#: includes/class-page-title.php:84
+msgid "Header Background Image"
+msgstr "Header Hintergrundbild"
+
+# @ look
+#: includes/class-page-title.php:88
+#: modules/options/includes/class-options-media-uploader.php:66
+#: modules/options/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr "Laden"
+
+# @ look
+#: includes/class-page-title.php:103
+msgid "Product Size Guide"
+msgstr "Finde Deine Richtige Armbandgröße"
+
+# @ look
+#: includes/class-page-title.php:107
+msgid "Product Youtube Video URL"
+msgstr "Artikel Youtube Video URL"
+
+# @ look
+#: includes/class-page-title.php:109
+msgid "Page Tile Options"
+msgstr "Seiten Titel Einstellungen"
+
+# @ look
+#: includes/helper.php:101
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+# @ look
+#: includes/helper.php:134
+msgid "First"
+msgstr "Erster"
+
+# @ look
+#: includes/helper.php:138
+msgid "Prev"
+msgstr "Vorheriger"
+
+# @ look
+#: includes/helper.php:149
+msgid "Next"
+msgstr "weiter"
+
+# @ look
+#: includes/helper.php:150
+msgid "Last"
+msgstr "Letzter"
+
+# @ look
+#: includes/helper.php:151 includes/helper.php:382 views/fix/archive.php:47
+#: views/fix/category.php:47 views/fix/index.php:57 views/fix/page.php:22
+#: views/fix/search.php:49 views/full/archive.php:47 views/full/category.php:47
+#: views/full/index.php:57 views/full/page.php:22 views/full/search.php:49
+#: views/home-left/archive.php:47 views/home-left/category.php:47
+#: views/home-left/index.php:57 views/home-left/page.php:23
+#: views/home-left/search.php:49
+msgid "Page"
+msgstr "Seite"
+
+# @ look
+#: includes/helper.php:151
+msgid "of"
+msgstr "von"
+
+# @ look
+#: includes/helper.php:176
+msgid "Home"
+msgstr "Start"
+
+# @ look
+#: includes/helper.php:532
+msgid "Older Comments <span>&rarr;</span>"
+msgstr "Ältere Kommentare <span>&rarr;</span>"
+
+# @ look
+#: includes/helper.php:536
+msgid "<span>&larr;</span> Newer Comments"
+msgstr "<span>&larr;</span> Neuere Kommentare"
+
+# @ look
+#: includes/look_setup.php:35 includes/look_setup.php:54
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+# @ look
+#: includes/look_setup.php:72
+msgid "Share this post on Facebook"
+msgstr "Teilen Sie diesen Beitrag auf Facebook!"
+
+# @ look
+#: includes/look_setup.php:75
+msgid "Share this post on Twitter"
+msgstr "Teilen Sie diesen Beitrag auf Twitter"
+
+# @ look
+#: includes/look_setup.php:78
+msgid "Share this post on Google Plus"
+msgstr "Teilen Sie diesen Beitrag auf Google+"
+
+# @ look
+#: includes/look_setup.php:81
+msgid "Share this post on Pinterest"
+msgstr "Teilen Sie diesen Beitrag auf Pinterest"
+
+# @ look
+#: includes/look_setup.php:84
+msgid "Share this post on Tumbr"
+msgstr "Teilen Sie diesen Beitrag auf Tumbr"
+
+# @ look
+#: includes/look_setup.php:114
+msgid " No Comment "
+msgstr "Kein Kommentar"
+
+# @ look
+#: includes/look_setup.php:114
+msgid "1 Comment"
+msgstr "Ein Kommentar"
+
+# @ look
+#: includes/look_setup.php:135
+#, php-format
+msgid ""
+"<div class=\"comment-meta\"><div class=\"comment-author\"><span class=\"author\">%1s</span> <span class=\"says\">says:</span></div><div class=\"comment-time\">%2$s at %3$s\n"
+"            </div></div>"
+msgstr "Veröffentlich von <span class=\"comment-author-link\">%1$s</span> <span class=\"comment-date\">am %2$s um %3$s</span>"
+
+# @ look
+#: includes/look_setup.php:140
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf die Freischaltung."
+
+# @ look
+#: includes/look_setup.php:148 woocommerce/myaccount/my-address.php:56
+msgid "Edit"
+msgstr "Bearbeiten"
+
+# @ look
+#: includes/menu.php:7
+msgid "Header Main Menu"
+msgstr "Hauptmenü"
+
+# @ look
+#: includes/menu.php:8
+msgid "Main Menu Left"
+msgstr "Linkes Hauptmenü"
+
+# @ look
+#: includes/menu.php:9
+msgid "Main Menu Right"
+msgstr "Rechtes Hauptmenü"
+
+# @ look
+#: includes/sidebar.php:4
+msgid "Look Home Widget"
+msgstr "Look - Startseite Widget"
+
+# @ look
+#: includes/sidebar.php:6
+msgid "Home Widget Area"
+msgstr "Widgets Startseite"
+
+# @ look
+#: includes/sidebar.php:13 includes/sidebar.php:15
+msgid "Home Category Link Widget"
+msgstr "Start Kategorie Link-Widget"
+
+# @ look
+#: includes/sidebar.php:22
+msgid "Footer Sidebar"
+msgstr "Footer Seitenleiste 1"
+
+# @ look
+#: includes/sidebar.php:24
+msgid "Footer sidebar"
+msgstr "Fußzeilenmenü"
+
+# @ look
+#: includes/sidebar.php:31
+msgid "Blog Top Sidebar"
+msgstr "Top Seitenleiste"
+
+# @ look
+#: includes/sidebar.php:33
+msgid "Blog Top sidebar"
+msgstr "Top Seitenleiste"
+
+# @ look
+#: includes/sidebar.php:40 includes/sidebar.php:42
+msgid "Blog Right Sidebar"
+msgstr "Blog Seitenleiste rechts"
+
+# @ look
+#: includes/sidebar.php:49 includes/sidebar.php:51
+msgid "Shop Left Sidebar"
+msgstr "Shop linke Seitenleiste"
+
+# @ look
+#: includes/sidebar.php:58 includes/sidebar.php:60
+msgid "Shop Right Sidebar"
+msgstr "Shop rechte Seitenleiste"
+
+# @ look
+#: includes/sidebar.php:67 includes/sidebar.php:69
+msgid "Product Page Left Sidebar"
+msgstr "Produktseite Left Sidebar"
+
+# @ look
+#: includes/sidebar.php:76 includes/sidebar.php:78
+msgid "Product Page Right Sidebar"
+msgstr "Alle Produkte rechte Navigationsleiste"
+
+# @ look
+#: includes/widget/home_category_link.php:12
+msgid "Look - Category Link Widget"
+msgstr "Look - Kategorie Link-Widget"
+
+# @ look
+#: includes/widget/home_category_link.php:15
+msgid "Category link Widget"
+msgstr "Kategorie Link Widget"
+
+# @ look
+#: includes/widget/home_category_link.php:38
+msgid "Widget Image"
+msgstr "Widget Bild"
+
+# @ look
+#: includes/widget/home_category_link.php:62
+#: includes/widget/home_feature_product.php:56
+#: includes/widget/link_block.php:45
+msgid "Title:"
+msgstr "Titel:"
+
+# @ look
+#: includes/widget/home_category_link.php:66
+msgid "Short Descriptions:"
+msgstr "Kurze Beschreibungen:"
+
+# @ look
+#: includes/widget/home_category_link.php:70
+msgid "Shop URL:"
+msgstr "Shop URL"
+
+# @ look
+#: includes/widget/home_category_link.php:74
+msgid "Image:"
+msgstr "Bild:"
+
+# @ look
+#: includes/widget/home_feature_product.php:12
+msgid "Look - Products Widget"
+msgstr "Look - Produkte Widget"
+
+# @ look
+#: includes/widget/home_feature_product.php:15
+msgid "Look Products Widget"
+msgstr "Look - Produkt Widget"
+
+# @ look
+#: includes/widget/home_feature_product.php:34
+#: includes/widget/link_block.php:36
+msgid "New title"
+msgstr "Neuer Titel"
+
+# @ look
+#: includes/widget/home_feature_product.php:60
+#: includes/widget/product_tab.php:134
+msgid "Type:"
+msgstr "Typ:"
+
+# @ look
+#: includes/widget/home_feature_product.php:62
+#: includes/widget/product_tab.php:135
+msgid "Feature Products"
+msgstr "Empfohlene Produkte"
+
+# @ look
+#: includes/widget/home_feature_product.php:63
+#: includes/widget/product_tab.php:136
+msgid "Best Seller Products"
+msgstr "Meist verkaufte Produkte"
+
+# @ look
+#: includes/widget/home_feature_product.php:64
+#: includes/widget/product_tab.php:138
+msgid "New Arrivals Products"
+msgstr "Neu eingetroffen Produkte"
+
+# @ look
+#: includes/widget/home_feature_product.php:65
+#: includes/widget/product_tab.php:140
+msgid "On Sales Products"
+msgstr "In Aktion"
+
+# @ look
+#: includes/widget/home_feature_product.php:66
+#: includes/widget/product_tab.php:141
+msgid "Recent Products"
+msgstr "Neuste Produkte"
+
+# @ look
+#: includes/widget/home_feature_product.php:70
+#: includes/widget/product_tab.php:144
+msgid "Order by"
+msgstr "Sortieren nach"
+
+# @ look
+#: includes/widget/home_feature_product.php:72
+#: includes/widget/product_tab.php:146 woocommerce/myaccount/my-orders.php:31
+#: woocommerce/myaccount/my-orders.php:50
+msgid "Date"
+msgstr "Datum"
+
+# @ look
+#: includes/widget/home_feature_product.php:73
+#: includes/widget/product_tab.php:147 woocommerce/cart/cart.php:37
+#: woocommerce/emails/admin-cancelled-order.php:33
+#: woocommerce/emails/admin-new-order.php:38
+#: woocommerce/emails/customer-completed-order.php:38
+#: woocommerce/emails/customer-invoice.php:42
+#: woocommerce/emails/customer-note.php:42
+#: woocommerce/emails/customer-processing-order.php:38
+#: woocommerce/loop/orderby.php:129
+msgid "Price"
+msgstr "Preis"
+
+# @ look
+#: includes/widget/home_feature_product.php:74
+#: includes/widget/product_tab.php:148
+msgid "Random"
+msgstr "Zufällig"
+
+# @ look
+#: includes/widget/home_feature_product.php:75
+#: includes/widget/product_tab.php:149
+msgid "Sales"
+msgstr "Sales"
+
+# @ look
+#: includes/widget/home_feature_product.php:79
+#: includes/widget/product_tab.php:153 woocommerce/myaccount/my-orders.php:30
+msgid "Order"
+msgstr "Bestellen"
+
+# @ look
+#: includes/widget/home_feature_product.php:86
+#: includes/widget/product_tab.php:160
+msgid "Limit:"
+msgstr "Begrenzung:"
+
+# @ look
+#: includes/widget/link_block.php:12
+msgid "Look - Footer Menu Block Widget"
+msgstr "Look - Footer Menu Block-Widget"
+
+# @ look
+#: includes/widget/link_block.php:15
+msgid "Footer Menu Block Widget"
+msgstr "Footer Menu Block-Widget"
+
+# @ look
+#: includes/widget/link_block.php:49
+msgid "Menu:"
+msgstr "Menü:"
+
+# @ look
+#: includes/widget/link_block.php:51
+msgid "Choose menu"
+msgstr "Wählen Sie ein Menü"
+
+# @ look
+#: includes/widget/product_tab.php:12
+msgid "Look - Products Tab Widget"
+msgstr "Look - Produkte Tab Widget"
+
+# @ look
+#: includes/widget/product_tab.php:15
+msgid "Look Products Tab Widget"
+msgstr "Look - Produkte Tab Widget"
+
+# @ look
+#: includes/widget/product_tab.php:31
+msgid "Featured"
+msgstr "Hervorgehoben"
+
+# @ look
+#: includes/widget/product_tab.php:37
+msgid "Best Seller"
+msgstr "Bestseller"
+
+# @ look
+#: includes/widget/product_tab.php:45 includes/widget/product_tab.php:50
+msgid "New arrivals"
+msgstr "Neu eingetroffen"
+
+# @ look
+#: includes/widget/product_tab.php:57
+msgid "Recent Product"
+msgstr "Aktuelle Artikel"
+
+# @ look
+#: includes/widget/product_tab.php:63
+msgid "Sale"
+msgstr "Sale"
+
+# @ look
+#: includes/woo_func.php:23
+msgid "Search products..."
+msgstr "Produkt suchen..."
+
+# @ look
+#: includes/woo_func.php:24 views/fix/footer.php:21 views/fix/header.php:35
+#: views/fix/header.php:59 views/fix/header.php:102 views/fix/header.php:125
+#: views/fix/header.php:172 views/fix/header.php:177 views/fix/header.php:211
+#: views/fix/header.php:234 views/fix/header.php:278 views/fix/header.php:283
+#: views/full/footer.php:21 views/full/header.php:35 views/full/header.php:59
+#: views/full/header.php:102 views/full/header.php:125
+#: views/full/header.php:170 views/full/header.php:175
+#: views/full/header.php:209 views/full/header.php:232
+#: views/full/header.php:275 views/full/header.php:280
+#: views/home-left/footer.php:47 views/home-left/header.php:9
+msgid "Search"
+msgstr "Suche"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Benötigte Plugins installieren"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Plugins installieren"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Plugin %s wird installiert."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Etwas ist schief gelaufen mit der Plugin API!"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dieses Theme erfordert die folgende Plugin: %1$s."
+msgstr[1] "Dieses Theme erfordert die folgenden Plugins: %1$s."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dieses Thema empfiehlt das folgende Plugin: %1$s."
+msgstr[1] "Dieses Thema empfiehlt die folgenden Plugins: %1$s."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:348
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Entschuldigung, aber Sie haben nicht die erforderlichen Berechtigungen, um dieses %1$s Plugin zu installieren."
+msgstr[1] "Entschuldigung, aber Sie haben nicht die erforderlichen Berechtigungen, um diese %1$s Plugins zu installieren."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:353
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Das folgende Plugin muss auf die neueste Version aktualisiert werden, um maximale Kompatibilität mit diesem Thema sicher zu stellen: %1$s."
+msgstr[1] "Die folgenden Plugins müssen auf die neueste Version aktualisiert werden, um maximale Kompatibilität mit diesem Thema sicher zu stellen: %1$s."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Es ist ein Update verfügbar für: %1$s."
+msgstr[1] "Es sind Updates verfügbar für: %1$s."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:363
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Entschuldigung, aber Sie haben nicht die erforderlichen Berechtigungen, um das %1$s Plugin zu aktualisieren."
+msgstr[1] "Entschuldigung, aber Sie haben nicht die erforderlichen Berechtigungen, um die %1$s Plugins zu aktualisieren."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende erforderliche Plugin ist derzeit inaktiv: %1$s."
+msgstr[1] "Die folgenden erforderlichen Plugins sind derzeit inaktiv: %1$s."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende empfohlene Plugin ist derzeit inaktiv: %1$s."
+msgstr[1] "Die folgenden empfohlenen Plugins sind derzeit inaktiv: %1$s."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:378
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Entschuldigung, aber Sie haben nicht die erforderlichen Berechtigungen, um dieses %1$s Plugin zu aktivieren."
+msgstr[1] "Entschuldigung, aber Sie haben nicht die erforderlichen Berechtigungen, um diese %1$s Plugins zu aktivieren."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Beginne das Plugin zu installieren"
+msgstr[1] "Beginne die Plugins zu installieren"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Beginne mit der Aktualisierung des Plugins"
+msgstr[1] "Beginne mit der Aktualisierung der Plugins"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Beginne mit der Aktivierung des Plugins"
+msgstr[1] "Beginne mit der Aktivierung der Plugins"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Zurück zum Look Plugin-Installer"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Zurück zum Dashboard"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:399
+#: modules/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr "Plugin erfolgreich aktiviert."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Keine Aktion durchgeführt. Plugin %1$s war bereits aktiv."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:402
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin nicht aktiviert. Eine höhere Version des %s Plugins ist für dieses Theme notwendig. Bitte aktualisiere das Plugin."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle Plugins erfolgreich installiert und aktiviert. %1$s"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Hinweis ausblenden"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Bitte wenden Sie sich an den Administrator."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Dieses Plugin muss aktualisiert werden, um mit Deinem Theme kompatibel zu sein."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Update erforderlich"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Setze stattdessen die Konfigurationsvariable parent_slug."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:828
+#: modules/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "Zurück zum Dashboard"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Das angeforderte Plugin Paket enthält keinen Ordner mit dem gewünschten Slug und eine Umbenennung hat nicht funktioniert."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:935
+#: modules/class-tgm-plugin-activation.php:938
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Bitte nehmen Sie Kontakt zum Plugin-Anbieter auf und bitten sie darum, das Plugin entsprechend der WordPress-Richtlinien zu packen."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:938
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Das Remote Plugin Package besteht aus mehr als einer Datei, aber die Dateien sind nicht in einen Ordner gepackt."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:1116
+#: modules/class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "und"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "Pflichtfeld"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "Empfohlen"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "Externe Quelle"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Mitgeliefert:"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Installiert, aber nicht aktiviert"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "Aktiv"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "Benötigtes Update nicht verfügbar"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "Update erforderlich"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "Update empfohlen"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+msgstr[1] "All <span class=\"count\">(%s)</span>"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Zum Installieren <span class=\"count\">(%s)</span>"
+msgstr[1] "Zum Installieren <span class=\"count\">(%s)</span>"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktualisierung verfügbar <span class=\"count\">(%s)</span>"
+msgstr[1] "Aktualisierung verfügbar <span class=\"count\">(%s)</span>"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Zum Aktivieren <span class=„count“>(%s)</span>"
+msgstr[1] "Zum Aktivieren <span class=„count“>(%s)</span>"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unbekannt"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "Installierte Version:"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "Minimal erforderliche Version:"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "Verfügbare Version:"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "Keine Plugins zu installieren, zu aktualisieren oder zu aktivieren. <a href=\\\"%1$s\\\">Zurück zum Dashboard</a>"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Plugin-Dokumentation"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "Quelle"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "Typ"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "Version"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2443
+#: woocommerce/myaccount/my-orders.php:32
+#: woocommerce/myaccount/my-orders.php:53
+msgid "Status"
+msgstr "Status"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Installiere %2$s"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Aktualisierung %2$s"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Aktiviere %2$s"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "Update-Nachricht vom Plugin-Autor:"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr "Installieren"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "Update"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "Aktivieren"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Es wurden keine Plugins zum installieren ausgewählt. Es wurde keine Aktion durchgeführt."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Keine Plugins zur Aktualisierung ausgewählt. Es wurde keine Aktion durchgeführt."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "Es sind zur Zeit keine Plugins zur Installation verfügbar."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "Es sind zur Zeit keine Aktualisierungen für Plugins verfügbar."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Es wurden keine Plugins zur Aktualisierung ausgewählt."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "Es sind zur Zeit keine zu aktivierenden Plugins in diesem Theme verfügbar."
+
+# @ look
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: modules/class-tgm-plugin-activation.php:2832
+#: modules/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Das folgende Plugin wurde erfolgreich aktiviert:"
+msgstr[1] "Die folgenden Plugins wurden erfolgreich aktiviert:"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Aktivierung des Plugins ist fehlgeschlagen."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualisiere Plugin %1$s (%2$d/%3$d)"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Während der Aktualisierung von %1$s: <strong>%2$s</strong> ist ein Fehler aufgetreten."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Die Installation von %1$s ist fehlgeschlagen."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:3369
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Die Installation und den Aktivierungsvorgang starten. Das kann eine Weile dauern, bitte haben Sie ein wenig Geduld."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s erfolgreich installiert und aktiviert."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:3370
+#: modules/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "Details anzeigen"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:3370
+#: modules/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "Details ausblenden"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Alle Installierungen und Aktivierungen sind abgeschlossen."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere und aktiviere Plugin %1$s (%2$d/%3$d)"
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:3375
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Der Installationsvorgang startet. Das kann eine Weile dauern, bitte haben Sie ein wenig Geduld."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s erfolgreich installiert."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Alle Installationen sind abgeschlossen."
+
+# @ look
+#: modules/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere Plugin %1$s (%2$d/%3$d)"
+
+# @ look
+#: modules/import/parsers.php:33 modules/import/parsers.php:54
+msgid "There was an error when reading this WXR file"
+msgstr "Es gab einen Fehler beim Lesen dieser *.xwr Datei"
+
+# @ look
+#: modules/import/parsers.php:34
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Details werden oben angezeigt. Der Importer wird es noch einmal mit einem anderen Parser versuchen  …"
+
+# @ look
+#: modules/import/parsers.php:58 modules/import/parsers.php:63
+#: modules/import/parsers.php:253 modules/import/parsers.php:442
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Dies scheint keine *. xwr Datei zu sein, fehlende/ungültige WXR-Versionsnummer."
+
+# @ look
+#: modules/import/view/import.php:27
+msgid "Choose layout: "
+msgstr "Layout auswählen:"
+
+# @ look
+#: modules/import/wordpress-importer.php:123
+#: modules/import/wordpress-importer.php:132
+#: modules/import/wordpress-importer.php:183
+#: modules/import/wordpress-importer.php:187
+#: modules/import/wordpress-importer.php:196
+msgid "Sorry, there has been an error."
+msgstr "Entschuldigung, es ist ein Fehler aufgetreten."
+
+# @ look
+#: modules/import/wordpress-importer.php:124
+msgid "The file does not exist, please try again."
+msgstr "Die Datei existiert nicht. Bitte versuchen Sie es erneut."
+
+# @ look
+#: modules/import/wordpress-importer.php:167
+msgid "All done."
+msgstr "Alles erledigt."
+
+# @ look
+#: modules/import/wordpress-importer.php:167
+msgid "Have fun!"
+msgstr "Viel Spaß!"
+
+# @ look
+#: modules/import/wordpress-importer.php:168
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Denken Sie daran die Passwörter und Rollen der importierten Benutzer zu aktualisieren."
+
+# @ look
+#: modules/import/wordpress-importer.php:188
+#, php-format
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "Die Export-Datei wurde unter <code>%s</code> nicht gefunden. Es ist wahrscheinlich, dass es sich um ein Berechtigungsproblem handelt."
+
+# @ look
+#: modules/import/wordpress-importer.php:204
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Die WXR-Datei (Version %s) konnte von dieser Version des Importers nicht unterstützt werden. Bitte eine Aktualisierung durchführen."
+
+# @ look
+#: modules/import/wordpress-importer.php:229
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Fehler beim Importieren des Autors %s. Die Beiträge werden daher dem derzeitigen User zugeordnet."
+
+# @ look
+#: modules/import/wordpress-importer.php:255
+msgid "Assign Authors"
+msgstr "Autoren zuweisen"
+
+# @ look
+#: modules/import/wordpress-importer.php:256
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr "Um es Ihnen einfacher zu machen, importieren Sie den Inhalt mit den Rechten eines existierenden Users. Zum Beispiel als admin mit folgendem Code <code>admin</code>."
+
+# @ look
+#: modules/import/wordpress-importer.php:258
+#, php-format
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr "Bei der Einrichtung eines neuen WordPress Benutzers wird ein zufälliges Passwort generiert und die neue Benutzerrolle von &#8217;s wird als %s angelegt. Die neuen Benutzerdetails von &#8217;s sollten anschließend manuell geändert werden."
+
+# @ look
+#: modules/import/wordpress-importer.php:268
+msgid "Import Attachments"
+msgstr "Import"
+
+# @ look
+#: modules/import/wordpress-importer.php:271
+msgid "Download and import file attachments"
+msgstr "Dateianhänge herunterladen und importieren"
+
+# @ look
+#: modules/import/wordpress-importer.php:275
+msgid "Submit"
+msgstr "Absenden"
+
+# @ look
+#: modules/import/wordpress-importer.php:288
+msgid "Import author:"
+msgstr "Import-Autor:"
+
+# @ look
+#: modules/import/wordpress-importer.php:299
+msgid "or create new user with login name:"
+msgstr "oder erstellen Sie einen neuen Benutzer mit Login-Namen:"
+
+# @ look
+#: modules/import/wordpress-importer.php:302
+msgid "as a new user:"
+msgstr "als ein neuer Benutzer:"
+
+# @ look
+#: modules/import/wordpress-importer.php:310
+msgid "assign posts to an existing user:"
+msgstr "Diese Beiträge einem existierenden Benutzer zuweisen:"
+
+# @ look
+#: modules/import/wordpress-importer.php:312
+msgid "or assign posts to an existing user:"
+msgstr "oder die Beiträge einem existierenden Benutzer zuweisen:"
+
+# @ look
+#: modules/import/wordpress-importer.php:313
+msgid "- Select -"
+msgstr "- Auswählen -"
+
+# @ look
+#: modules/import/wordpress-importer.php:363
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "Fehler beim Erstellen eines neuen Benutzers für %s. Die Einträge werden dem derzeitigen Benutzer zugeordnet."
+
+# @ look
+#: modules/import/wordpress-importer.php:412
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Fehler beim Import der Kategorie %s"
+
+# @ look
+#: modules/import/wordpress-importer.php:450
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Fehler beim Import der Schlagwörter %s"
+
+# @ look
+#: modules/import/wordpress-importer.php:495
+#: modules/import/wordpress-importer.php:621
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Fehler beim Importieren %s%s"
+
+# @ look
+#: modules/import/wordpress-importer.php:517
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Fehler beim Import &#8220;%s&#8221;: Ungültiger Beitragstyp %s"
+
+# @ look
+#: modules/import/wordpress-importer.php:538
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; ist bereits vorhanden."
+
+# @ look
+#: modules/import/wordpress-importer.php:593
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Fehler beim Importieren von %s &#8220;%s&#8221;"
+
+# @ look
+#: modules/import/wordpress-importer.php:739
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Menüpunkt übersprungen aufgrund fehlender Menü slug"
+
+# @ look
+#: modules/import/wordpress-importer.php:746
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Menüpunkt übersprungen aufgrund fehlender Menü slug: %s"
+
+# @ look
+#: modules/import/wordpress-importer.php:809
+msgid "Fetching attachments is not enabled"
+msgstr "Laden von Anhängen ist nicht aktiviert"
+
+# @ look
+#: modules/import/wordpress-importer.php:822
+msgid "Invalid file type"
+msgstr "Ungütiger Dateityp"
+
+# @ look
+#: modules/import/wordpress-importer.php:866
+msgid "Remote server did not respond"
+msgstr "Remote Server antwortet nicht"
+
+# @ look
+#: modules/import/wordpress-importer.php:872
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Der Remote-Server lieferte folgende Fehlermeldung: %1$d %2$s"
+
+# @ look
+#: modules/import/wordpress-importer.php:879
+msgid "Remote file is incorrect size"
+msgstr "Remote Datei hat falsche Grösse"
+
+# @ look
+#: modules/import/wordpress-importer.php:884
+msgid "Zero size file downloaded"
+msgstr "Leere Datei heruntergeladen"
+
+# @ look
+#: modules/import/wordpress-importer.php:890
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Die Datei ist zu groß. Zulässig sind %s."
+
+# @ look
+#: modules/import/wordpress-importer.php:988
+msgid "Import WordPress"
+msgstr "WordPress Import"
+
+# @ look
+#: modules/import/wordpress-importer.php:1002
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr "Hallo! Laden Sie Ihre WordPress-eXtended-RSS-Datei (WXR-Datei) hoch, um Beiträge, Seiten, Kommentare, Benutzerdefinierte Felder, Kategorien und Schlagwörter zu importieren."
+
+# @ look
+#: modules/import/wordpress-importer.php:1003
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "Wählen Sie eine WXR-Datei (.xml) zum hochladen aus und klicken Sie anschließend auf Datei hochladen und importieren."
+
+# @ look
+#: modules/options/includes/class-options-framework-admin.php:65
+#, php-format
+msgid "Your current theme does not have support for the Options.  <a href=\"%1$s\" target=\"_blank\">Learn More</a> | <a href=\"%2$s\">Hide Notice</a>"
+msgstr "Ihr aktuelles Thema keine Unterstützung für die Optionen. <a href=\"%1$s\" target=\"_blank\">Erfahren</a> Sie <a href=\"%1$s\" target=\"_blank\">mehr</a> | <a href=\"%2$s\">ausblenden Hinweis</a>"
+
+# @ look
+#: modules/options/includes/class-options-framework-admin.php:120
+#: modules/options/includes/class-options-framework-admin.php:121
+msgid "Look Theme Options"
+msgstr "Look Theme Optionen"
+
+# @ look
+#: modules/options/includes/class-options-framework-admin.php:234
+msgid "Save Options"
+msgstr "Optionen Speichern"
+
+# @ look
+#: modules/options/includes/class-options-framework-admin.php:235
+msgid "Restore Defaults"
+msgstr "Standardeinstellungen wiederherstellen"
+
+# @ look
+#: modules/options/includes/class-options-framework-admin.php:235
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Klicken Sie auf OK, um die Einstellungen zurückzusetzen. Alle Theme-Einstellungen werden verloren gehen!"
+
+# @ look
+#: modules/options/includes/class-options-framework-admin.php:266
+msgid "Default options restored."
+msgstr "Standardeinstellungen wiederhergestellt."
+
+# @ look
+#: modules/options/includes/class-options-framework-admin.php:320
+msgid "Options saved."
+msgstr "Einstellungen gespeichert"
+
+# @ look
+#: modules/options/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr "Keine Datei ausgewählt"
+
+# @ look
+#: modules/options/includes/class-options-media-uploader.php:68
+#: modules/options/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr "Entfernen"
+
+# @ look
+#: modules/options/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Bitte aktualisieren Sie Ihre Version von WordPress, um vollen Mediensupport zu erhalten."
+
+# @ look
+#: modules/options/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr "Datei ansehen"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:361
+msgid "No Repeat"
+msgstr "Keine Wiederholung"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:362
+msgid "Repeat Horizontally"
+msgstr "Horizontal wiederholen"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:363
+msgid "Repeat Vertically"
+msgstr "Vertikal wiederholen"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:364
+msgid "Repeat All"
+msgstr "Generell wiederholen"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:378
+msgid "Top Left"
+msgstr "Oben links"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:379
+msgid "Top Center"
+msgstr "Oben zentriert"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:380
+msgid "Top Right"
+msgstr "Oben rechts"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:381
+msgid "Middle Left"
+msgstr "Mitte links"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:382
+msgid "Middle Center"
+msgstr "Mitte und zentriert"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:383
+msgid "Middle Right"
+msgstr "Mitte rechts"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:384
+msgid "Bottom Left"
+msgstr "Unten links"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:385
+msgid "Bottom Center"
+msgstr "Unten mittig"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:386
+msgid "Bottom Right"
+msgstr "Unten rechts"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:400
+msgid "Scroll Normally"
+msgstr "Normal Scrollen"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:401
+msgid "Fixed in Place"
+msgstr "Fixiert"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:480
+msgid "Normal"
+msgstr "Normal"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:481
+msgid "Italic"
+msgstr "Kursiv"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:482
+msgid "Bold"
+msgstr "Fett"
+
+# @ look
+#: modules/options/includes/class-options-sanitization.php:483
+msgid "Bold Italic"
+msgstr "Fett kursiv"
+
+# @ look
+#: modules/options/options.php:100
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+# @ look
+#: modules/options/options.php:104
+msgid "Layout"
+msgstr "Gestaltung"
+
+# @ look
+#: modules/options/options.php:118
+msgid "Sticky Menu"
+msgstr "Fixierte Navigationsleiste"
+
+# @ look
+#: modules/options/options.php:119
+msgid "use for full and fix layout only"
+msgstr "für Vollbild oder Fixed-Layout"
+
+# @ look
+#: modules/options/options.php:125 modules/options/options.php:136
+#: modules/options/options.php:214
+msgid "No"
+msgstr "Nein"
+
+# @ look
+#: modules/options/options.php:126 modules/options/options.php:137
+#: modules/options/options.php:215
+msgid "Yes"
+msgstr "Ja"
+
+# @ look
+#: modules/options/options.php:131
+msgid "Header Layout 1"
+msgstr "Header Layout 1"
+
+# @ look
+#: modules/options/options.php:132
+msgid "Header Layout 2"
+msgstr "Header Hintergrundbild"
+
+# @ look
+#: modules/options/options.php:133
+msgid "Header Layout 3"
+msgstr "Header Layout 3"
+
+# @ look
+#: modules/options/options.php:140
+msgid "Header Layout"
+msgstr "Header-Layout"
+
+# @ look
+#: modules/options/options.php:141
+msgid "Run only on full layout or fix layout"
+msgstr "Führen Sie nur auf vollständige Layout oder beheben Layout zu"
+
+# @ look
+#: modules/options/options.php:148
+msgid "Regular Logo"
+msgstr "Logo (normal)"
+
+# @ look
+#: modules/options/options.php:152
+msgid "Retina Logo"
+msgstr "Retina Logo"
+
+# @ look
+#: modules/options/options.php:156
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+# @ look
+#: modules/options/options.php:158 views/fix/footer.php:46
+#: views/full/footer.php:46 views/home-left/footer.php:16
+#: views/home-left/header.php:25
+msgid "The Look &copy;2015 - All Rights Reserved"
+msgstr "The Look © 2016 - alle Rechte vorbehalten"
+
+# @ look
+#: modules/options/options.php:161
+msgid "Footer Layout"
+msgstr "Footer-Spaltenlayout"
+
+# @ look
+#: modules/options/options.php:163
+msgid "Display footer on left layout"
+msgstr "Fußzeile auf linken Layout anzeigen"
+
+# @ look
+#: modules/options/options.php:169
+msgid "Display Breadcrumbs "
+msgstr "Zeige Breadcrumb-Navigation"
+
+# @ look
+#: modules/options/options.php:176
+msgid "Header promo text"
+msgstr "Werbetext oben"
+
+# @ look
+#: modules/options/options.php:178
+msgid "Free shipping for standard order over $75"
+msgstr "Kostenloser Standard "
+
+# @ look
+#: modules/options/options.php:181
+msgid "Favicon Image"
+msgstr "Favicon Bild"
+
+# @ look
+#: modules/options/options.php:187
+msgid "Lookbook Icon"
+msgstr "Lookbook Icon"
+
+# @ look
+#: modules/options/options.php:193
+msgid "Custom Css"
+msgstr "Benutzerdefinierte CSS"
+
+# @ look
+#: modules/options/options.php:199
+msgid "None"
+msgstr "Keine"
+
+# @ look
+#: modules/options/options.php:200
+msgid "Css only"
+msgstr "CSS nur"
+
+# @ look
+#: modules/options/options.php:201
+msgid "Js only"
+msgstr "JS nur"
+
+# @ look
+#: modules/options/options.php:202
+msgid "Css and Js"
+msgstr "CSS und Js"
+
+# @ look
+#: modules/options/options.php:205
+msgid "Assets Minify"
+msgstr "Komprimierte Code-Ausgabe"
+
+# @ look
+#: modules/options/options.php:206
+msgid "Minify javascript and style sheet file"
+msgstr "Javascript und Style-Sheet-Datei verkleinern"
+
+# @ look
+#: modules/options/options.php:218
+msgid "Html Minify"
+msgstr "HTML Minify"
+
+# @ look
+#: modules/options/options.php:219
+msgid "Minify html output on front end"
+msgstr "Komprimierte HTML-Ausgabe "
+
+# @ look
+#: modules/options/options.php:229
+msgid "Woocommerce Settings"
+msgstr "WooCommerce Einstellungen"
+
+# @ look
+#: modules/options/options.php:233
+msgid "2 columns"
+msgstr "2 Spalten"
+
+# @ look
+#: modules/options/options.php:234
+msgid "3 columns"
+msgstr "3 Spalten"
+
+# @ look
+#: modules/options/options.php:235
+msgid "4 columns"
+msgstr "4 Spalten"
+
+# @ look
+#: modules/options/options.php:238
+msgid "Product Listing Style"
+msgstr "Produkt-Listing-Stil"
+
+# @ look
+#: modules/options/options.php:239
+msgid "Display style for product list"
+msgstr "Anzeigestil für Produktliste"
+
+# @ look
+#: modules/options/options.php:245
+msgid "Products List Style 1"
+msgstr "Produkte Listenstil 1"
+
+# @ look
+#: modules/options/options.php:246
+msgid "Products List Style 2"
+msgstr "Produkte Listenstil 2"
+
+# @ look
+#: modules/options/options.php:250
+msgid "Products per page"
+msgstr "Produkte je Seite"
+
+# @ look
+#: modules/options/options.php:251
+msgid "Number of products displayed per page"
+msgstr "Anzahl der anzuzeigenden Produkte pro Seite"
+
+# @ look
+#: modules/options/options.php:258
+msgid "Product Listing Layout"
+msgstr "Produkt Liste Layout"
+
+# @ look
+#: modules/options/options.php:259
+msgid "Display number of product on a row"
+msgstr "Anzahl der Produkte in einer Zeile anzeigen"
+
+# @ look
+#: modules/options/options.php:271
+msgid "Swatch style Attributes"
+msgstr "Swatch Style Attribute"
+
+# @ look
+#: modules/options/options.php:280
+msgid "Swatch Images Attributes"
+msgstr "Swatch Bilder Attribute"
+
+# @ look
+#: modules/options/options.php:289
+msgid "Attributes Filters"
+msgstr "Attribute-Filter"
+
+# @ look
+#: modules/options/options.php:299
+msgid "Price Filter"
+msgstr "Preis-Filter"
+
+# @ look
+#: modules/options/options.php:306
+msgid "Ajax Search"
+msgstr "Ajax Suche"
+
+# @ look
+#: modules/options/options.php:307
+msgid "Ajax search on front end"
+msgstr "Ajax-Suche auf front-end"
+
+# @ look
+#: modules/options/options.php:315
+msgid "Product Video"
+msgstr "Produktvideo"
+
+# @ look
+#: modules/options/options.php:316
+msgid "allow product video"
+msgstr "Produktvideo zu ermöglichen"
+
+# @ look
+#: modules/options/options.php:324
+msgid "Show thumbnail"
+msgstr "Zeige Vorschaubild"
+
+# @ look
+#: modules/options/options.php:325
+msgid "Show product thumbnail on search result."
+msgstr "Produkt-Miniaturansicht auf Suchergebnis anzeigen."
+
+# @ look
+#: modules/options/options.php:330
+msgid "Product Image Zoom"
+msgstr "Produktbild Zoom"
+
+# @ look
+#: modules/options/options.php:331
+msgid "Zoom function for product image"
+msgstr "Zoom-Funktion für Produkt-image"
+
+# @ look
+#: modules/options/options.php:338
+msgid "Enable Size Guide"
+msgstr "Größentabelle zu ermöglichen"
+
+# @ look
+#: modules/options/options.php:339
+msgid "Enable product size guide"
+msgstr "Aktivieren Sie die Produkt-Größentabelle"
+
+# @ look
+#: modules/options/options.php:346
+msgid "Default Size Guide"
+msgstr "Standard-Größentabelle"
+
+# @ look
+#: modules/options/options.php:347
+msgid "Default product size guide"
+msgstr "Standard-Produkt-Größentabelle"
+
+# @ look
+#: modules/options/options.php:354
+msgid "Social Settings"
+msgstr "Einstellungen soziale Netzwerke"
+
+# @ look
+#: modules/options/options.php:357
+msgid "Facebook Page URL"
+msgstr "URL der Facebookseite"
+
+# @ look
+#: modules/options/options.php:362
+msgid "Facebook Icon"
+msgstr "Facebook Symbol URL"
+
+# @ look
+#: modules/options/options.php:367
+msgid "Twitter Page URL"
+msgstr "Twitter-Seiten-URL"
+
+# @ look
+#: modules/options/options.php:372
+msgid "Twitter Icon"
+msgstr "Twitter Symbol-URL"
+
+# @ look
+#: modules/options/options.php:377
+msgid "Google Plus URL"
+msgstr "Google+-URL"
+
+# @ look
+#: modules/options/options.php:382
+msgid "Google Plus Icon"
+msgstr "Google Plus"
+
+# @ look
+#: modules/options/options.php:387
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+# @ look
+#: modules/options/options.php:392
+msgid "Instagram Icon"
+msgstr "Benutze das Instagram Symbol"
+
+# @ look
+#: modules/options/options.php:397
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+# @ look
+#: modules/options/options.php:402
+msgid "Pinterest Icon"
+msgstr "Pinterest Symbol"
+
+# @ look
+#: modules/options/options.php:408
+msgid "Tumblr URL"
+msgstr "Tumblr URL"
+
+# @ look
+#: modules/options/options.php:413
+msgid "Tumblr Icon"
+msgstr "Benutze das Tumblr Symbol"
+
+# @ look
+#: modules/options/options.php:419
+msgid "Youtube URL"
+msgstr "Youtube URL"
+
+# @ look
+#: modules/options/options.php:424
+msgid "Youtube Icon"
+msgstr "Benutze das Youtube Symbol"
+
+# @ look
+#: modules/options/options.php:430
+msgid "Vimeo URL"
+msgstr "Vimeo URL"
+
+# @ look
+#: modules/options/options.php:435
+msgid "Vimeo Icon"
+msgstr "Benutze das Vimeo Symbol"
+
+# @ look
+#: modules/options/options.php:441
+msgid "Linkedin URL"
+msgstr "LinkedIn URL"
+
+# @ look
+#: modules/options/options.php:446
+msgid "Linkedin Icon"
+msgstr "Benutze das LinkedIn Symbol"
+
+# @ look
+#: modules/options/options.php:452
+msgid "Dribbble URL"
+msgstr "Dribbble URL"
+
+# @ look
+#: modules/options/options.php:457
+msgid "Dribbble Icon"
+msgstr "Dribble-Symbol"
+
+# @ look
+#: modules/options/options.php:462
+msgid "Behance URL"
+msgstr "Behance URL"
+
+# @ look
+#: modules/options/options.php:467
+msgid "Behance Icon"
+msgstr "Benutze das Behance Symbol"
+
+# @ look
+#: modules/options/options.php:472
+msgid "LastFM URL"
+msgstr "Lastfm URL"
+
+# @ look
+#: modules/options/options.php:477
+msgid "LastFM Icon"
+msgstr "LastFM Icon"
+
+# @ look
+#: modules/options/options.php:482
+msgid "VK URL"
+msgstr "VK URL"
+
+# @ look
+#: modules/options/options.php:487
+msgid "VK Icon"
+msgstr "Benutze das VK Symbol"
+
+# @ look
+#: modules/options/options.php:492
+msgid "Stumbleupon URL"
+msgstr "Stumbleupon-URL"
+
+# @ look
+#: modules/options/options.php:497
+msgid "Stumbleupon Icon"
+msgstr "StumbleUpon-Symbol"
+
+# @ look
+#: modules/options/options.php:502
+msgid "Delicious URL"
+msgstr "Delicious"
+
+# @ look
+#: modules/options/options.php:507
+msgid "Delicious Icon"
+msgstr "Delicious"
+
+# @ look
+#: modules/options/options.php:513
+msgid "Google Analytics code"
+msgstr "Google Analytics-Code"
+
+# @ look
+#: views/fix/archive.php:27 views/fix/category.php:27 views/fix/index.php:37
+#: views/fix/search.php:29 views/fix/tag.php:27 views/full/archive.php:27
+#: views/full/category.php:27 views/full/index.php:37 views/full/search.php:29
+#: views/full/tag.php:27 views/home-left/archive.php:27
+#: views/home-left/category.php:27 views/home-left/index.php:37
+#: views/home-left/search.php:29 views/home-left/tag.php:27
+msgid "By"
+msgstr "von"
+
+# @ look
+#: views/fix/archive.php:27 views/fix/category.php:27 views/fix/index.php:37
+#: views/fix/search.php:29 views/fix/tag.php:27 views/full/archive.php:27
+#: views/full/category.php:27 views/full/index.php:37 views/full/search.php:29
+#: views/full/tag.php:27 views/home-left/archive.php:27
+#: views/home-left/category.php:27 views/home-left/index.php:37
+#: views/home-left/search.php:29 views/home-left/tag.php:27
+msgid "in"
+msgstr "in"
+
+# @ look
+#: views/fix/archive.php:36 views/fix/category.php:36 views/fix/index.php:46
+#: views/fix/search.php:38 views/fix/tag.php:36 views/full/archive.php:36
+#: views/full/category.php:36 views/full/index.php:46 views/full/search.php:38
+#: views/full/tag.php:36 views/home-left/archive.php:36
+#: views/home-left/category.php:36 views/home-left/index.php:46
+#: views/home-left/search.php:38 views/home-left/tag.php:36
+msgid "Read more <span>&rarr;</span>"
+msgstr "Weiterlesen &rarr;"
+
+# @ look
+#: views/fix/archive.php:45 views/fix/category.php:45 views/fix/index.php:55
+#: views/fix/search.php:47 views/full/archive.php:45 views/full/category.php:45
+#: views/full/index.php:55 views/full/search.php:47
+#: views/home-left/archive.php:45 views/home-left/category.php:45
+#: views/home-left/index.php:55 views/home-left/search.php:47
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+# @ look
+#: views/fix/archive.php:46 views/fix/category.php:46 views/fix/index.php:56
+#: views/fix/search.php:48 views/full/archive.php:46 views/full/category.php:46
+#: views/full/index.php:56 views/full/search.php:48
+#: views/home-left/archive.php:46 views/home-left/category.php:46
+#: views/home-left/index.php:56 views/home-left/search.php:48
+msgid "Next page"
+msgstr "Nächste Seite"
+
+# @ look
+#: views/fix/footer.php:22 views/full/footer.php:22
+#: views/home-left/footer.php:48
+msgid "Type your keyword and hit enter button for result"
+msgstr "Geben Sie Ihren Suchbegriff ein und drücken Sie die Enter-Taste zum Anzeigen des Suchergebnisses!"
+
+# @ look
+#: views/fix/header.php:34 views/fix/header.php:58 views/fix/header.php:124
+#: views/fix/header.php:158 views/fix/header.php:176 views/fix/header.php:233
+#: views/fix/header.php:265 views/fix/header.php:282 views/full/header.php:34
+#: views/full/header.php:58 views/full/header.php:124 views/full/header.php:158
+#: views/full/header.php:174 views/full/header.php:231
+#: views/full/header.php:262 views/full/header.php:279
+msgid "Menu"
+msgstr "Menü"
+
+# @ look
+#: views/fix/header.php:37 views/fix/header.php:104 views/fix/header.php:165
+#: views/fix/header.php:213 views/fix/header.php:272 views/full/header.php:37
+#: views/full/header.php:104 views/full/header.php:165
+#: views/full/header.php:211 views/full/header.php:269
+#: views/home-left/header.php:15
+msgid "Cart"
+msgstr "Warenkorb"
+
+# @ look
+#: views/fix/header.php:41 views/fix/header.php:108 views/fix/header.php:168
+#: views/fix/header.php:217 views/fix/header.php:274 views/full/header.php:41
+#: views/full/header.php:108 views/full/header.php:167
+#: views/full/header.php:215 views/full/header.php:271
+#: views/home-left/header.php:13
+msgid "Wishlist"
+msgstr "Merkzettel"
+
+# @ look
+#: views/fix/header.php:43 views/fix/header.php:46 views/fix/header.php:110
+#: views/fix/header.php:113 views/fix/header.php:161 views/fix/header.php:219
+#: views/fix/header.php:222 views/fix/header.php:268 views/full/header.php:43
+#: views/full/header.php:46 views/full/header.php:110 views/full/header.php:113
+#: views/full/header.php:161 views/full/header.php:217
+#: views/full/header.php:220 views/full/header.php:265
+#: views/home-left/header.php:11
+msgid "My Account"
+msgstr "Konto"
+
+# @ look
+#: views/fix/header.php:47 views/fix/header.php:114 views/fix/header.php:223
+#: views/full/header.php:47 views/full/header.php:114 views/full/header.php:221
+msgid "Logout"
+msgstr "Abmelden"
+
+# @ look
+#: views/fix/header.php:49 views/fix/header.php:116 views/fix/header.php:163
+#: views/fix/header.php:225 views/fix/header.php:270 views/full/header.php:49
+#: views/full/header.php:116 views/full/header.php:163
+#: views/full/header.php:223 views/full/header.php:267
+msgid "Register / Login"
+msgstr "Registrierung / Anmeldung"
+
+# @ look
+#: views/fix/page.php:18 views/full/page.php:18 views/home-left/page.php:19
+msgid "Pages:"
+msgstr "Seiten:"
+
+# @ look
+#: views/fix/search.php:15 views/full/search.php:15
+#: views/home-left/search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Ergebnisse der Suche für: %s"
+
+# @ look
+#: views/fix/single.php:37 views/full/single.php:38
+#: views/home-left/single.php:37
+msgid "Related posts"
+msgstr "Ähnliche Beiträge"
+
+# @ look
+#: views/home-left/footer.php:34
+msgid "Mini cart"
+msgstr "Kleiner Warenkorb"
+
+# @ look
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr "Warenkorb Gesamtsumme"
+
+# @ look
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/mini-cart.php:72
+#: woocommerce/checkout/review-order.php:73
+msgid "Subtotal"
+msgstr "Zwischensumme"
+
+# @ look
+#: woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr "Versand"
+
+# @ look
+#: woocommerce/cart/cart-totals.php:87 woocommerce/cart/cart.php:39
+#: woocommerce/checkout/review-order.php:27
+#: woocommerce/checkout/review-order.php:120
+#: woocommerce/myaccount/my-orders.php:33
+#: woocommerce/myaccount/my-orders.php:56
+#: woocommerce/order/order-details.php:33
+msgid "Total"
+msgstr "Summe"
+
+# @ look
+#: woocommerce/cart/cart-totals.php:99
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr " voraussichtlich %s"
+
+# @ look
+#: woocommerce/cart/cart-totals.php:102
+#, php-format
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr "Versand und Mehrwertsteuer belaufen sich auf %s und werden abschließend im Bestellvorgang, basierend auf Deinen Rechnungs- und Versanddaten genau berechnet."
+
+# @ look
+#: woocommerce/cart/cart.php:36 woocommerce/checkout/review-order.php:26
+#: woocommerce/emails/admin-cancelled-order.php:31
+#: woocommerce/emails/admin-new-order.php:36
+#: woocommerce/emails/customer-completed-order.php:36
+#: woocommerce/emails/customer-invoice.php:40
+#: woocommerce/emails/customer-note.php:40
+#: woocommerce/emails/customer-processing-order.php:36
+#: woocommerce/order/order-details.php:32
+msgid "Product"
+msgstr "Produkt"
+
+# @ look
+#: woocommerce/cart/cart.php:38 woocommerce/emails/admin-cancelled-order.php:32
+#: woocommerce/emails/admin-new-order.php:37
+#: woocommerce/emails/customer-completed-order.php:37
+#: woocommerce/emails/customer-invoice.php:41
+#: woocommerce/emails/customer-note.php:41
+#: woocommerce/emails/customer-processing-order.php:37
+msgid "Quantity"
+msgstr "Menge"
+
+# @ look
+#: woocommerce/cart/cart.php:80
+msgid "Available on backorder"
+msgstr "Nur auf Vorbestellung"
+
+# @ look
+#: woocommerce/cart/cart.php:115 woocommerce/cart/mini-cart.php:55
+msgid "Remove this item"
+msgstr "Artikel entfernen"
+
+# @ look
+#: woocommerce/cart/cart.php:131
+msgid "Coupon"
+msgstr "Gutschein"
+
+# @ look
+#: woocommerce/cart/cart.php:131
+msgid "Coupon code"
+msgstr "Gutscheincode"
+
+# @ look
+#: woocommerce/cart/cart.php:131
+msgid "Apply Coupon"
+msgstr "Gutschein anwenden"
+
+# @ look
+#: woocommerce/cart/cart.php:137
+msgid "Update Cart"
+msgstr "Warenkorb aktualisieren"
+
+# @ look
+#: woocommerce/cart/mini-cart.php:64
+msgid "No products in the cart."
+msgstr "Der Warenkorb ist leer."
+
+# @ look
+#: woocommerce/cart/mini-cart.php:77
+msgid "View Cart"
+msgstr "Zum Warenkorb"
+
+# @ look
+#: woocommerce/cart/mini-cart.php:78
+msgid "Checkout"
+msgstr "Zur Kasse"
+
+# @ look
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr "Sie müssen eingeloggt sein, um zu bestellen!"
+
+# @ look
+#: woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr "Ihre Bestellung"
+
+# @ look
+#: woocommerce/checkout/form-shipping.php:42
+msgid "Ship to a different address?"
+msgstr "Andere Lieferadresse benutzen?"
+
+# @ look
+#: woocommerce/checkout/form-shipping.php:67
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr "Weitere Informationen"
+
+# @ look
+#: woocommerce/content-product-2.php:54 woocommerce/content-product.php:62
+msgid "+ Quick View"
+msgstr "+ Schnellansicht"
+
+# @ look
+#: woocommerce/content-product-2.php:56 woocommerce/content-product.php:64
+#: woocommerce/single-product/sale-flash.php:26
+msgid "Sold Out"
+msgstr "Ausverkauft"
+
+# @ look
+#: woocommerce/content-product-2.php:57 woocommerce/content-product.php:65
+#: woocommerce/single-product/sale-flash.php:27
+msgid "New"
+msgstr "Neu"
+
+# @ look
+#: woocommerce/content-single-product.php:77
+#: woocommerce/content-single-product.php:149
+#: woocommerce/content-single-product.php:208
+msgid "Size Guide"
+msgstr "Finde Deine Richtige Armbandgröße"
+
+# @ look
+#: woocommerce/content-single-product.php:236
+msgid "Size Chart"
+msgstr "Finde Deine Richtige Armbandgröße"
+
+# @ look
+#: woocommerce/emails/admin-cancelled-order.php:22
+#, php-format
+msgid "The order #%d from %s has been cancelled. The order was as follows:"
+msgstr "Die Bestellung %d von %s wurde storniert. Die Bestellung lautete wie folgt:"
+
+# @ look
+#: woocommerce/emails/admin-cancelled-order.php:26
+#, php-format
+msgid "Order: %s"
+msgstr "Bestellung: %s"
+
+# @ look
+#: woocommerce/emails/admin-new-order.php:27
+#, php-format
+msgid "You have received an order from %s. The order is as follows:"
+msgstr "Sie haben eine Bestellung von %s erhalten. Die Bestellung lautet wie folgt:"
+
+# @ look
+#: woocommerce/emails/admin-new-order.php:31
+#: woocommerce/emails/customer-completed-order.php:31
+#: woocommerce/emails/customer-invoice.php:35
+#: woocommerce/emails/customer-note.php:35
+#: woocommerce/emails/customer-processing-order.php:31
+#, php-format
+msgid "Order #%s"
+msgstr "Aufträge #%s"
+
+# @ look
+#: woocommerce/emails/customer-completed-order.php:27
+#, php-format
+msgid "Hi there. Your recent order on %s has been completed. Your order details are shown below for your reference:"
+msgstr "Ihre Bestellung %s ist vollständig. Die Bestelldetails entnehmen Sie bitte den Angaben unten:"
+
+# @ look
+#: woocommerce/emails/customer-invoice.php:29
+#, php-format
+msgid "An order has been created for you on %s. To pay for this order please use the following link: %s"
+msgstr "Ihre Bestellung bei %s wurde erstellt. Um diese Bestellung zu bezahlen, klicke bitte folgenden Link: %s."
+
+# @ look
+#: woocommerce/emails/customer-invoice.php:29
+msgid "pay"
+msgstr "bezahlen"
+
+# @ look
+#: woocommerce/emails/customer-note.php:27
+msgid "Hello, a note has just been added to your order:"
+msgstr "Hallo, Ihrer Bestellung wurde soeben eine Anmerkung hinzugefügt:"
+
+# @ look
+#: woocommerce/emails/customer-note.php:31
+msgid "For your reference, your order details are shown below."
+msgstr "Zu Ihrer Kontrolle, hier noch einmal Ihre Bestelldetails."
+
+# @ look
+#: woocommerce/emails/customer-processing-order.php:27
+msgid "Your order has been received and is now being processed. Your order details are shown below for your reference:"
+msgstr "Ihre Bestellung haben wir erhalten und wird nun bearbeitet. Zu Ihrer Information hier noch einmal die Details:"
+
+# @ look
+#: woocommerce/emails/email-addresses.php:29
+msgid "Billing address"
+msgstr "Rechnungsadresse"
+
+# @ look
+#: woocommerce/emails/email-addresses.php:39
+msgid "Shipping address"
+msgstr "Lieferadresse"
+
+# @ look
+#: woocommerce/emails/email-order-items.php:34
+msgid "Product Image"
+msgstr "Produktbild"
+
+# @ look
+#: woocommerce/emails/email-order-items.php:63
+#, php-format
+msgid "Download %d"
+msgstr "Herunterladen %d:"
+
+# @ look
+#: woocommerce/emails/email-order-items.php:65
+msgid "Download"
+msgstr "Download"
+
+# @ look
+#: woocommerce/emails/woo-preview-emails.php:87
+msgid "Preview Email Templates"
+msgstr "Vorschau E-Mail-Vorlagen"
+
+# @ look
+#: woocommerce/emails/woo-preview-emails.php:89
+msgid "Click Here to preview all of your Email Templates with Orders"
+msgstr "Zur Bestätigung Ihrer Mail bitte hier klicken."
+
+# @ look
+#: woocommerce/global/quantity-input.php:25
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Anzahl"
+
+# @ look
+#: woocommerce/loop/result-count.php:41
+msgid "Showing the single result"
+msgstr "Zeige das einzige Ergebnis"
+
+# @ look
+#: woocommerce/loop/result-count.php:43
+#, php-format
+msgid "Showing all %d results"
+msgstr "Alle Ergebnisse für %d anzeigen"
+
+# @ look
+#: woocommerce/loop/result-count.php:45
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr "Anzeige %1$d&ndash;%2$d von %3$d Ergebnissen"
+
+# @ look
+#: woocommerce/myaccount/form-edit-account.php:32
+msgid "First name"
+msgstr "Vorname"
+
+# @ look
+#: woocommerce/myaccount/form-edit-account.php:36
+msgid "Last name"
+msgstr "Nachname"
+
+# @ look
+#: woocommerce/myaccount/form-edit-account.php:42
+#: woocommerce/myaccount/form-login.php:92
+msgid "Email address"
+msgstr "E-Mail-Adresse"
+
+# @ look
+#: woocommerce/myaccount/form-edit-account.php:47
+msgid "Password Change"
+msgstr "Passwort Ändern"
+
+# @ look
+#: woocommerce/myaccount/form-edit-account.php:50
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr "Altes Passwort (leer lassen, um es unverändert zu lassen)"
+
+# @ look
+#: woocommerce/myaccount/form-edit-account.php:54
+msgid "New Password (leave blank to leave unchanged)"
+msgstr "Neues Passwort (leer lassen, um es unverändert zu lassen)"
+
+# @ look
+#: woocommerce/myaccount/form-edit-account.php:58
+msgid "Confirm New Password"
+msgstr "Neues Kennwort bestätigen"
+
+# @ look
+#: woocommerce/myaccount/form-edit-account.php:68
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+# @ look
+#: woocommerce/myaccount/form-edit-address.php:25
+#: woocommerce/myaccount/my-address.php:28
+#: woocommerce/myaccount/my-address.php:34
+#: woocommerce/order/order-details.php:204
+msgid "Billing Address"
+msgstr "Rechnungsadresse"
+
+# @ look
+#: woocommerce/myaccount/form-edit-address.php:25
+#: woocommerce/myaccount/my-address.php:29
+#: woocommerce/order/order-details.php:223
+msgid "Shipping Address"
+msgstr "Lieferanschrift"
+
+# @ look
+#: woocommerce/myaccount/form-edit-address.php:56
+msgid "Save Address"
+msgstr "Adresse speichern"
+
+# @ look
+#: woocommerce/myaccount/form-login.php:37
+#: woocommerce/myaccount/form-login.php:59
+msgid "Login"
+msgstr "Login"
+
+# @ look
+#: woocommerce/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr "﻿Benutzername oder E-Mail Adresse"
+
+# @ look
+#: woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:99
+msgid "Password"
+msgstr "Passwort"
+
+# @ look
+#: woocommerce/myaccount/form-login.php:57
+msgid "Remember me"
+msgstr "Angemeldet bleiben"
+
+# @ look
+#: woocommerce/myaccount/form-login.php:63
+msgid "Lost your password?"
+msgstr "Passwort vergessen?"
+
+# @ look
+#: woocommerce/myaccount/form-login.php:76
+#: woocommerce/myaccount/form-login.php:113
+msgid "Register"
+msgstr "Registrieren"
+
+# @ look
+#: woocommerce/myaccount/form-login.php:85
+msgid "Username"
+msgstr "Benutzername"
+
+# @ look
+#: woocommerce/myaccount/form-login.php:106
+msgid "Anti-spam"
+msgstr "Anti-Spam"
+
+# @ look
+#: woocommerce/myaccount/my-account.php:28
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr "Hallo <strong>%1$s</strong> (nicht %1$s? <a href=\"%2$s\">abmelden</a>)."
+
+# @ look
+#: woocommerce/myaccount/my-account.php:33
+#, php-format
+msgid "From your account dashboard you can view your recent orders, manage your shipping and billing addresses and <a href=\"%s\">edit your password and account details</a>."
+msgstr "Von Ihrem Konto-Dashboard aus können Sie Ihre letzten Aufträge anzeigen, Ihre Versand- und Rechnungsadressen verwalten und <a href=\"%s\">Ihr Passwort sowie Ihre Konto-Details bearbeiten</a>."
+
+# @ look
+#: woocommerce/myaccount/my-address.php:26
+msgid "My Addresses"
+msgstr "Meine Adressen"
+
+# @ look
+#: woocommerce/myaccount/my-address.php:32
+msgid "My Address"
+msgstr "Meine Adresse"
+
+# @ look
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "Die folgenden Adressen werden standardmäßig für Bestellungen genutzt."
+
+# @ look
+#: woocommerce/myaccount/my-address.php:75
+msgid "You have not set up this type of address yet."
+msgstr "Sie haben diese Art von Adresse bisher noch nicht eingerichtet."
+
+# @ look
+#: woocommerce/myaccount/my-orders.php:23
+msgid "Recent Orders"
+msgstr "Letzte Bestellungen"
+
+# @ look
+#: woocommerce/myaccount/my-orders.php:45
+msgid "Order Number"
+msgstr "Bestellnummer"
+
+# @ look
+#: woocommerce/myaccount/my-orders.php:57
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s für %s Artikel"
+msgstr[1] "%s für %s Artikel"
+
+# @ look
+#: woocommerce/myaccount/my-orders.php:66
+msgid "Pay"
+msgstr "Bezahlen"
+
+# @ look
+#: woocommerce/myaccount/my-orders.php:73
+msgid "Cancel"
+msgstr "Abbrechen"
+
+# @ look
+#: woocommerce/myaccount/my-orders.php:79
+msgid "View"
+msgstr "Zeige"
+
+# @ look
+#: woocommerce/myaccount/view-order.php:29
+#, php-format
+msgid "Order #<mark class=\"order-number\">%s</mark> was placed on <mark class=\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</mark>."
+msgstr "Bestellung #<mark class=\"order-number\">%s</mark> wurde getätigt am <mark class=\"order-date\">%s</mark> und ist zur Zeit <mark class=\"order-status\">%s</mark>."
+
+# @ look
+#: woocommerce/myaccount/view-order.php:34 woocommerce/order/tracking.php:35
+msgid "Order Updates"
+msgstr "Bestell-Status"
+
+# @ look
+#: woocommerce/myaccount/view-order.php:41 woocommerce/order/tracking.php:42
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia"
+
+# @ look
+#: woocommerce/order/order-details.php:27
+msgid "Order Details"
+msgstr "Bestelldetails"
+
+# @ look
+#: woocommerce/order/order-details.php:71
+#, php-format
+msgid "Download file%s"
+msgstr "Herunterladen der Datei%s"
+
+# @ look
+#: woocommerce/order/order-details.php:137
+#: woocommerce/order/order-details.php:141
+#, php-format
+msgid "(Includes %s)"
+msgstr "(inkl. %s)"
+
+# @ look
+#: woocommerce/order/order-details.php:159
+msgid "Refunded:"
+msgstr "Rückerstattet:"
+
+# @ look
+#: woocommerce/order/order-details.php:168
+msgid "Note:"
+msgstr "Hinweis:"
+
+# @ look
+#: woocommerce/order/order-details.php:178
+msgid "Customer details"
+msgstr "Kundendetails"
+
+# @ look
+#: woocommerce/order/order-details.php:183
+msgid "Email:"
+msgstr "E-Mail:"
+
+# @ look
+#: woocommerce/order/order-details.php:183
+msgid "Email"
+msgstr "E-Mall"
+
+# @ look
+#: woocommerce/order/order-details.php:187
+msgid "Telephone:"
+msgstr "Telefon:"
+
+# @ look
+#: woocommerce/order/order-details.php:187
+msgid "Telephone"
+msgstr "Telefon"
+
+# @ look
+#: woocommerce/order/order-details.php:209
+#: woocommerce/order/order-details.php:228
+msgid "N/A"
+msgstr "N/A"
+
+# @ look
+#: woocommerce/order/tracking.php:23
+#, php-format
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr "Bestellung %s die am %s in Auftrag gegeben wurde, hat den Status &ldquo;%s&rdquo;"
+
+# @ look
+#: woocommerce/order/tracking.php:23
+msgid "ago"
+msgstr "vorher"
+
+# @ look
+#: woocommerce/order/tracking.php:25
+msgid "and was completed"
+msgstr "und wurde erledigt"
+
+# @ look
+#: woocommerce/order/tracking.php:25
+msgid " ago"
+msgstr " vorher"
+
+# @ look
+#: woocommerce/single-product/add-to-cart/variable.php:51
+msgid "Choose an option"
+msgstr "Bitte wählen Sie:"
+
+# @ look
+#: woocommerce/single-product/add-to-cart/variable.php:130
+msgid "Clear selection"
+msgstr "Auswahl zurücksetzen"
+
+# @ look
+#: woocommerce/single-product/add-to-cart/variable.php:162
+msgid "This product is currently out of stock and unavailable."
+msgstr "Dieses Produkt ist derzeit ausverkauft."
+
+# @ look
+#: woocommerce/single-product/product-attributes.php:38
+msgid "Weight: "
+msgstr "Gewicht:"
+
+# @ look
+#: woocommerce/single-product/product-attributes.php:45
+msgid "Dimensions: "
+msgstr "Maße:"
+
+# @ look
+#: woocommerce/single-product/product-image.php:82
+msgid "Placeholder"
+msgstr "Platzhalter"
+
+# @ look
+#: woocommerce/single-product/rating.php:36
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Bewertet mit %s von 5"
+
+# @ look
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "out of %s5%s"
+msgstr "von %s5%s"
+
+# @ look
+#: woocommerce/single-product/rating.php:39
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] "basierend auf %s Kundenbewertung"
+msgstr[1] "basierend auf %s Kundenbewertungen"
+
+# @ look
+#: woocommerce/single-product/rating.php:42
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s Kundenbewertung"
+msgstr[1] "%s Kundenbewertungen"
+
+# @ look
+#: woocommerce/single-product/related.php:51
+msgid "Related products"
+msgstr "Verwandte Produkte"
+
+# @ look
+#: woocommerce/single-product/review.php:38
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Bewertet mit %d von 5"
+
+# @ look
+#: woocommerce/single-product/review.php:39
+msgid "out of 5"
+msgstr "von 5 Sternen"
+
+# @ look
+#: woocommerce/single-product/review.php:46
+msgid "Your comment is awaiting approval"
+msgstr "Ihr Kommentar wartet auf Freigabe"
+
+# @ look
+#: woocommerce/single-product/review.php:55
+msgid "verified owner"
+msgstr "Verifizierter Kauf"
+
+# @ look
+#: woocommerce/single-product/sale-flash.php:30
+msgid "Sale!"
+msgstr "Sale!"
+
+# @ look
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr "Beschreibung"
+
+# @ look
+#: woocommerce/single-product/up-sells.php:52
+msgid "You may also like&hellip;"
+msgstr "Das könnte Sie auch interessieren&hellip;"
