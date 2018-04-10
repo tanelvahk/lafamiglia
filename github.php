@@ -1,1 +1,1 @@
-<?php 'git pull';’ ?>
+echo '<?php `git pull`;'
