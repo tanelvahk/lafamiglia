@@ -1097,8 +1097,9 @@ nav.main-menu #mobile-menu ul ul:after {
 	z-index: 9;
 	background-color: rgba(255,255,255,.5);
 }
-.shop-link:hover .gradient-background {
-	background-color: rgba(255,255,255,.5);
+
+.shop-link:hover .gradient-background:hover {
+	background-color: rgba(255,255,255,.3);
 }
 .intro-text {
 	color: #001438;
