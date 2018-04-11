@@ -105,8 +105,6 @@ var $ = jQuery.noConflict();
 
         //Change thumbnail
 
-
-
         $('body').on('click','.thumbnails a.img-thumb',function(event){
             event.preventDefault();
             var src = $(this).attr('href');
@@ -115,12 +113,7 @@ var $ = jQuery.noConflict();
             var img_alt = $(this).find('img').first().attr('alt');
             $(this).closest('.images').find('.main-image a').first().attr('href',src);
             $(this).closest('.images').find('.main-image a img').attr('src',src);
-            if(srcset)
-            {
-                $(this).closest('.images').find('.main-image a img').attr('srcset',srcset);
-            }else{
-                $(this).closest('.images').find('.main-image a img').attr('srcset','');
-            }
+            $(this).closest('.images').find('.main-image a img').attr('srcset','');
 
             $(this).closest('.images').find('.main-image a img').attr('title',img_title);
             $(this).closest('.images').find('.main-image a img').attr('alt',img_alt);

@@ -27,7 +27,7 @@ body.home-left-layout .logo {
 }
 body.home-left-layout .logo a {
 	display: inline-block;
-	width: 160px;
+	width: 225px;
 	height: auto;
 }
 body.home-left-layout .top-menu {
@@ -60,7 +60,7 @@ body.home-left-layout .top-menu li:last-child a {
 	padding-right: 0
 }
 body.home-left-layout .top-menu li a span {
-	background: #000 none repeat scroll 0 0;
+	background: #00205b none repeat scroll 0 0;
 	border-radius: 50%;
 	color: #fff;
 	display: inline-block;
@@ -74,7 +74,7 @@ body.home-left-layout .top-menu li a span {
 }
 /*  MAIN - MENU  */
 body.home-left-layout nav.main-menu {
-	margin-top: 50px;
+	margin-top: 60px;
 	padding: 0;
 }
 body.home-left-layout nav.main-menu #mobile-menu {
@@ -100,7 +100,7 @@ body.home-left-layout #footer-1 {
 	bottom: 10px;
 }
 body.home-left-layout.admin-bar #footer-1 {
-	bottom: 45px;
+	bottom: 60px;
 }
 body.home-left-layout .socials {
 	text-align: center;
@@ -114,19 +114,19 @@ body.home-left-layout #footer-1 .socials li a {
 	font-size: 1em;
 	width: 30px;
 	height: 30px;
-	border: 1px solid #000;
+	border: 1px solid #00205b;
 	border-radius: 50%;
 	display: inline-block;
 	vertical-align: middle;
-	color: #000;
+	color: #00205b;
 	line-height: 30px;
 }
 body.home-left-layout #footer-1 .socials li a:hover {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 body.home-left-layout .copyright {
-	color: #000;
+	color: #00205b;
 	margin-top: 5px;
 	background: transparent;
 	padding: 0;

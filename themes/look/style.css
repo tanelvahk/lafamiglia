@@ -65,7 +65,7 @@ Tags: two-columns, left-sidebar, featured-images, microformats, sticky-post, tra
 }
 a {
 	text-decoration: none;
-	color: #000;
+	color: #00205b;
 	-webkit-transition: all .3s ease-in-out;
 	-moz-transition: all .3s ease-in-out;
 	-ms-transition: all .3s ease-in-out;
@@ -74,7 +74,7 @@ a {
 }
 a:hover {
 	text-decoration: none;
-	color: #000;
+	color: #00205b;
 }
 a:focus {
 	outline: none;
@@ -121,7 +121,7 @@ dfn {
 	font-style: italic;
 }
 mark {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 	padding: 3px 10px;
 }
@@ -215,7 +215,7 @@ table {
 	width: 100%;
 }
 .dropdown-select {
-	border: 1px solid #000;
+	border: 1px solid #00205b;
 	border-radius: 0;
 	padding: 5px;
 	display: inline-block;
@@ -243,16 +243,16 @@ table {
 	-webkit-appearance: none;
 }
 ::-webkit-input-placeholder {
-	color: #000;
+	color: #00205b;
 }
 :-moz-placeholder {
-	color: #000;
+	color: #00205b;
 }
 ::-moz-placeholder {
-	color: #000;
+	color: #00205b;
 }
 :-ms-input-placeholder {  
-	color: #000;
+	color: #00205b;
 }
 footer ::-webkit-input-placeholder {
 	opacity: 1;
@@ -399,7 +399,7 @@ body {
 	display: block;
 	text-align: center;
 	border-radius: 50%;
-	background: #000;
+	background: #00205b;
 	color: #fff;
 	line-height: 26px;
 }
@@ -421,7 +421,7 @@ body {
 	line-height: 29px;
 }
 .top-menu li a:hover {
-	color: #000;
+	color: #00205b;
 }
 .mini-search {
 	border: 1px solid #999;
@@ -485,7 +485,7 @@ body {
 }
 .top-menu li.cart a span,
 .top-menu li.wishlist a span {
-	background: #000;
+	background: #00205b;
 	border-radius: 50%;
 	color: #fff;
 	font-size: 9px;
@@ -590,7 +590,7 @@ body {
 	line-height: 1.428;
 }
 .top-menu li.my-account ul li:hover a {
-	color: #000;
+	color: #00205b;
 }
 /* --------------- 3.3 STICKY HEADER --------------- */
 #header.sticky {
@@ -711,7 +711,7 @@ nav.main-menu ul li a {
 	font-weight: 400;
 }
 nav.main-menu ul li a:before {
-	background-color: #000;
+	background-color: #00205b;
 	top: 50%;
 	content: "";
 	height: 0.1em;
@@ -729,7 +729,7 @@ nav.main-menu ul.menu > li:hover > a:before {
 nav.main-menu ul li ul {
 	position: absolute;
 	min-width: 250px;
-	background: #000;
+	background: #00205b;
 	opacity: 0;
 	visibility: hidden;
 	-webkit-transition: all .3s ease-in-out;
@@ -785,7 +785,7 @@ nav.main-menu .menu > ul > li > ul:after {
 	height: 0;
 	border-style: solid;
 	border-width: 0 8px 8px 8px;
-	border-color: transparent transparent #000 transparent;	
+	border-color: transparent transparent #00205b transparent;	
 	-webkit-transform: translateX(-50%);
 	-moz-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
@@ -1085,6 +1085,9 @@ nav.main-menu #mobile-menu ul ul:after {
 .shop-content p {
 	margin: 0;
 }
+.page-heading  .gradient-background{
+	background-color: transparent;
+}
 .gradient-background {
 	width: 100%;
 	height: 100%;
@@ -1092,13 +1095,13 @@ nav.main-menu #mobile-menu ul ul:after {
 	left: 0;
 	top: 0;
 	z-index: 9;
-	background-color: rgba(0,0,0,.5);
+	background-color: rgba(255,255,255,.5);
 }
 .shop-link:hover .gradient-background {
-	background-color: rgba(0,0,0,.3);
+	background-color: rgba(255,255,255,.5);
 }
 .intro-text {
-	color: #fff;
+	color: #001438;
 	position: relative;
 	text-align: center;
 	top: calc(50% - 16px);
@@ -1107,18 +1110,23 @@ nav.main-menu #mobile-menu ul ul:after {
 	transform: translateY(-50%); 
 }
 .intro-text h3 {
-	color: #fff;
+	color: #001438;
 	text-align: center;
 	padding: 0;
 	margin: 0;
 	letter-spacing: .2em;
 	font-size: 30px;
+	font-weight: 700;
 	text-transform: uppercase;
 }
 .hero-banner .intro-text h3 {
 	font-size: 28px;
 	margin: 0 0 5px;
 	text-transform: uppercase;
+}
+
+.intro-text p{
+	font-size: 16px;
 }
 .hero-banner .intro-text h2 {
 	font-size: 44px;
@@ -1160,7 +1168,7 @@ nav.main-menu #mobile-menu ul ul:after {
 	z-index: 999;
 }
 .caption-wrap:hover .gradient-background {
-	background-color: rgba(0,0,0,.3);
+	background-color: rgba(255,255,255,.3);
 }
 .caption-wrap:hover .intro-text a {
 	transform: rotate3D(0,0,0,0);
@@ -1239,10 +1247,12 @@ h2.module-title {
 }
 /* ==================== 5.0 FOOTER ==================== */
 #footer {
+	position: relative;
+	z-index: 999;
 	width: 100%;
-	padding: 50px 0 0;
-	background: #000;
-	color: #999;
+	padding: 40px 0 20px 0;
+	background: #f7f7f7;
+    color: #00205b;
 	font-size: 1em;
 }
 #footer .footer-menu > div[class*="col-"]:first-child {
@@ -1253,7 +1263,7 @@ h2.module-title {
 }
 #footer h3 {
 	text-transform: uppercase;
-	color: #fff;
+	color: #00205b;
 	letter-spacing: .2em;
 	margin: 0 0 20px;
 	font-size: 1em;
@@ -1263,11 +1273,11 @@ h2.module-title {
 	list-style: none;
 }
 #footer a {
-	color: #999;
+	color: #001438;
 	line-height: 24px;
 }
 #footer a:hover {
-	color: #fff;
+	color: #00205b;
 }
 form.mc4wp-form {
 	margin: 0;
@@ -1278,7 +1288,7 @@ form.mc4wp-form .newsletter-signup input.input-text {
 	padding: 8px 10px;
 	letter-spacing: 2px;
 	margin-right: 10px;
-	width: calc(100% - 110px);
+	width: calc(100% - 180px);
 	float: left;
 }
 form.mc4wp-form .newsletter-signup input.submit-btn {
@@ -1289,7 +1299,8 @@ form.mc4wp-form .newsletter-signup input.submit-btn {
 	font-weight: bold;
 	text-transform: uppercase;
 	float: right;
-	margin-top: 0;
+	margin-top: -16px;
+    margin-right: 44px;
 	-webkit-transition: all .3s ease-in-out;
 	-moz-transition: all .3s ease-in-out;
 	-ms-transition: all .3s ease-in-out;
@@ -1297,10 +1308,11 @@ form.mc4wp-form .newsletter-signup input.submit-btn {
 	transition: all .3s ease-in-out;
 }
 form.mc4wp-form .newsletter-signup input.submit-btn:hover {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 	border-color: #fff;
 }
+
 .newsletter-signup ::-webkit-input-placeholder {
 	color: #999;
 }
@@ -1374,7 +1386,7 @@ form.mc4wp-form .newsletter-signup input.submit-btn:hover {
 	border-radius: 3px;
 }
 .scrollToTop:hover {
-	background-color: #000;
+	background-color: #00205b;
 }
 /* ==================== 6.0 WOOCOMMERCE STYLE ==================== */
 /* --------------- 6.1 BREADCRUMBS --------------- */
@@ -1386,10 +1398,10 @@ form.mc4wp-form .newsletter-signup input.submit-btn:hover {
 	background: #fff;
 }
 .breadcrumbs a {
-	color: #000;
+	color: #00205b;
 }
 .breadcrumbs span {
-	color: #000;
+	color: #00205b;
 	font-weight: normal;
 }
 .breadcrumbs ul {
@@ -1430,7 +1442,7 @@ form.mc4wp-form .newsletter-signup input.submit-btn:hover {
 }
 .woocommerce .woocommerce-breadcrumb a {
 	font-weight: bold;
-	color: #000;
+	color: #00205b;
 }
 /* --------------- 6.2 CATEGORY --------------- */
 .sub-categories {
@@ -1549,7 +1561,7 @@ form.mc4wp-form .newsletter-signup input.submit-btn:hover {
 	padding-right: 50px;
 }
 .section-background .intro-text h1 {
-	font-size: 26px;
+	font-size: 36px;
 	text-transform: uppercase;
 	letter-spacing: 4px;
 }
@@ -1596,7 +1608,7 @@ span.onsale,
 }
 .quick-view {
 	left: 15px;
-	background: #000;
+	background: #b7ccdb;
 	opacity: 0;
 	visibility: hidden;
 	font-size: .8em;
@@ -1631,7 +1643,7 @@ span.onsale,
 span.onsale,
 .woocommerce span.onsale {
 	right: 15px;
-	background: #ff5f27;
+	background: #f88c9f;
 	font-size: .8em;
 	line-height: 1.428;
 	border-radius: 0;
@@ -1733,6 +1745,7 @@ h3.category-name {
 .grid-item .item-wrap .item-thumb {
 	overflow: hidden;
 	position: relative;
+	min-height:380px;
 }
 .grid-item img {
 	height: auto;
@@ -1911,7 +1924,7 @@ button.close:hover {
 	display: none;
 }
 .modal-content .social-share {
-	border-top: 1px solid #000;
+	border-top: 1px solid #00205b;
 	margin-top: 5px;
 	padding-top: 15px;
 }
@@ -2149,7 +2162,7 @@ div.product-page p.price ins,
 	margin: 5px 0;
 }
 .product-info .short-description {
-	border-top: 1px solid #000;
+	border-top: 1px solid #00205b;
 	padding-top: 10px;
 }
 .product-options h3 {
@@ -2161,7 +2174,7 @@ div.product-page p.price ins,
 .product-options ul li {
 	display: inline-block;
 	margin-right: 3px;
-	border: 1px solid #000;
+	border: 1px solid #00205b;
 	padding: 2px;    
 	-webkit-transition: all .3s ease-in-out;
 	-moz-transition: all .3s ease-in-out;
@@ -2171,7 +2184,7 @@ div.product-page p.price ins,
 }
 .product-options ul li:hover,
 .product-options ul li.select {
-	background: #000
+	background: #00205b
 }
 .product-options ul li a {
 	width: 28px;
@@ -2202,7 +2215,7 @@ div.product-page p.price ins,
 	background: #00c9cb;
 }
 .product-options .product-colors ul li.black a {
-	background: #000;
+	background: #00205b;
 }
 .product-addtocart {
 	margin-top: 25px;
@@ -2211,7 +2224,7 @@ div.product-page p.price ins,
 form.cart div.quantity {
 	float: left;
 	margin-right: 10px;
-	border: 1px solid #000;
+	border: 1px solid #00205b;
 	background: #fff;
 }
 .woocommerce .quantity input.qty,
@@ -2238,9 +2251,9 @@ form.cart div.quantity {
 .woocommerce .product-addtocart button.button.single_add_to_cart_button,
 .product-addtocart button.button  {
 	padding: 8px 30px;
-	border: 2px solid #000;
+	border: 2px solid #00205b;
 	background: #fff;
-	color: #000;
+	color: #00205b;
 	font-weight: bold;
 	text-transform: uppercase;
 	letter-spacing: 3px;
@@ -2253,7 +2266,7 @@ form.cart div.quantity {
 }
 .woocommerce .product-addtocart button.button.single_add_to_cart_button:hover,
 .product-addtocart button.button:hover  {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 .woocommerce .product-addtocart button.button.single_add_to_cart_button.add-cart-loading {
@@ -2290,7 +2303,7 @@ form.cart div.quantity {
 	display: inline-block;
 	width: 100%;
 	padding-bottom: 10px;
-	border-bottom: 1px solid #000;
+	border-bottom: 1px solid #00205b;
 }
 .product-addto a {
 	font-size: 13px;
@@ -2320,20 +2333,20 @@ form.cart div.quantity {
 }
 .product-info .info-tab ul li a {
 	text-transform: uppercase;
-	border: 1px solid #000;
-	color: #000;
+	border: 1px solid #00205b;
+	color: #00205b;
 	border-radius: 0;
 	font-weight: bold;
 	padding: 5px 10px;
 }
 .product-info .info-tab ul li:hover a, 
 .product-info .info-tab ul li.active a {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 .product-info .tab-content .tab-pane {
 	padding: 15px;
-	border: 1px solid #000;
+	border: 1px solid #00205b;
 }
 .woocommerce div.product form.cart,
 .woocommerce div.product p.cart {
@@ -2369,7 +2382,7 @@ ul.swatch {
 	width: 100%;
 }
 .swatch li {
-	border: 1px solid #000;
+	border: 1px solid #00205b;
 	padding: 2px;
 	margin-right: 3px;
 	display: inline-block;
@@ -2393,7 +2406,7 @@ ul.swatch {
 }
 ul.swatch li:hover,
 ul.swatch li.selected {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 ul.swatch li.selected {
@@ -2462,7 +2475,7 @@ ul.swatch li.selected {
 }
 /* META */
 .variations h4 {
-	color: #000;
+	color: #00205b;
 	font-size: 14px;
 	padding-left: 0;
 	margin: 0;
@@ -2505,8 +2518,8 @@ ul.swatch li.selected {
 	font-weight: bold;
 	padding: 10px 0;
 	margin: 0;
-	border-bottom: 1px solid #000;
-	border-top: 1px solid #000;
+	border-bottom: 1px solid #00205b;
+	border-top: 1px solid #00205b;
 	margin-top: -1px;
 }
 .woocommerce-tabs h4 span {
@@ -2703,9 +2716,9 @@ ul.swatch li.selected {
 	-webkit-transition: all 0.3s ease-in-out 0s;
 }
 .woocommerce .comment-form input.submit:hover {
-	background: #000;
+	background: #00205b;
 	color: #fff;
-	border-color: #000;
+	border-color: #00205b;
 }
 .woocommerce #reviews #comments ol.commentlist li img.avatar {
 	width: 50px;
@@ -2743,7 +2756,7 @@ ul.swatch li.selected {
 	line-height: 32px;
 }
 .social-share ul li a:hover {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 .size-guide {
@@ -2845,9 +2858,9 @@ ul.swatch li.selected {
 .woocommerce a.button:hover,
 .woocommerce button.button:hover,
 .woocommerce input.button:hover {
-	background: #000;
+	background: #00205b;
 	color: #fff;
-	border-color: #000;
+	border-color: #00205b;
 }
 .woocommerce form .form-row {
 	padding: 8px 0;
@@ -2876,7 +2889,7 @@ ul.swatch li.selected {
 .woocommerce input.button.alt:disabled:hover, 
 .woocommerce input.button.alt[disabled]:disabled, 
 .woocommerce input.button.alt[disabled]:disabled:hover {
-	background: #000;
+	background: #00205b;
 	color: #999;
 }
 .woocommerce table.shop_table {
@@ -2982,7 +2995,7 @@ ul.swatch li.selected {
 .woocommerce .cross-sells li.product .onsale {
 	right: 10px;
 	top: 15px;
-	background: #ff5f27;
+	background: #f88c9f;
 	line-height: inherit;
 	border-radius: 0;
 	height: inherit;
@@ -3053,20 +3066,20 @@ ul.swatch li.selected {
 	text-align: center;
 }
 .woocommerce-cart .wc-proceed-to-checkout a.checkout-button {
-	border-color: #000;
+	border-color: #00205b;
 }
 .woocommerce #respond input#submit.alt,
 .woocommerce a.button.alt,
 .woocommerce button.button.alt,
 .woocommerce input.button.alt {
 	background: #fff;
-	color: #000;
+	color: #00205b;
 }
 .woocommerce #respond input#submit.alt:hover,
 .woocommerce a.button.alt:hover,
 .woocommerce button.button.alt:hover,
 .woocommerce input.button.alt:hover {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 .woocommerce form .form-row-first,
@@ -3114,7 +3127,7 @@ body.woocommerce-checkout .top-menu li.cart a {
 	text-align: left;
 	max-width: 95%;
 	display: block;
-	color: #000;
+	color: #00205b;
 }
 .woocommerce ul.cart_list li a img,
 .woocommerce ul.product_list_widget li a img {
@@ -3129,7 +3142,7 @@ body.woocommerce-checkout .top-menu li.cart a {
 	right: 0;
 	font-weight: normal;
 	background: none;
-	color: #000 !important;
+	color: #00205b !important;
 	font-size: 2em;
 	width: 1em;
 	height: 1em;
@@ -3139,7 +3152,7 @@ body.woocommerce-checkout .top-menu li.cart a {
 .woocommerce .widget_shopping_cart .cart_list li a.remove:hover,
 .woocommerce.widget_shopping_cart .cart_list li a.remove:hover {
 	background: none;
-	color: #000 !important;
+	color: #00205b !important;
 	opacity: .5;
 }
 .woocommerce ul.cart_list li > span,
@@ -3188,8 +3201,8 @@ body.woocommerce-checkout .top-menu li.cart a {
 }
 .top-menu li .widget_shopping_cart .buttons a.button {
 	float: left;
-	border-color: #000;
-	color: #000;
+	border-color: #00205b;
+	color: #00205b;
 }
 .top-menu li .widget_shopping_cart .buttons a.button:hover {
 	color: #fff;
@@ -3225,7 +3238,7 @@ body.woocommerce-checkout .top-menu li.cart a {
 	border-color: #ccc;
 }
 .woocommerce #payment #place_order {
-	border-color: #000;
+	border-color: #00205b;
 }
 .woocommerce-checkout #payment div.payment_box {
 	width: 100%;
@@ -3277,7 +3290,7 @@ body.woocommerce-checkout .top-menu li.cart a {
 	width: 11px;
 }
 .woocommerce-shipping-fields h3 label {
-	border: 1px solid #000;
+	border: 1px solid #00205b;
 	background: transparent;
 	cursor: pointer;
 	height: 20px;
@@ -3301,7 +3314,7 @@ body.woocommerce-checkout .top-menu li.cart a {
 .woocommerce .woocommerce-message .button {
 	background: none;
 	border: none;
-	color: #000;
+	color: #00205b;
 	font-weight: normal;
 	padding: 3px 5px;
 	text-transform: none;
@@ -3360,7 +3373,7 @@ body.woocommerce-checkout .top-menu li.cart a {
 }
 .woocommerce-account .woocommerce-MyAccount-navigation li.is-active a,
 .woocommerce-account .woocommerce-MyAccount-navigation li:hover a  {
-	color: #000;
+	color: #00205b;
 }
 .woocommerce form.checkout_coupon,
 .woocommerce form.login, 
@@ -3455,7 +3468,7 @@ fieldset.change-password legend {
 	width: 30px;
 	height: 30px;
 	text-align: center;
-	border: 1px solid #000;
+	border: 1px solid #00205b;
 	font-size: 14px;
 	display: inline-block;
 	-webkit-transition: all .3s ease-in-out;
@@ -3471,18 +3484,18 @@ fieldset.change-password legend {
 	border: none;
 }
 .woocommerce nav.woocommerce-pagination ul li span.current {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 .woocommerce nav.woocommerce-pagination ul li a:focus,
 .woocommerce nav.woocommerce-pagination ul li a:hover {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 .woocommerce nav.woocommerce-pagination li a.next:hover,
 .woocommerce nav.woocommerce-pagination li a.prev:hover {
 	background: none;
-	color: #000;
+	color: #00205b;
 }
 /* --------------- 6.11 AJAX SEARCH  --------------- */
 .ui-autocomplete {
@@ -3526,9 +3539,12 @@ fieldset.change-password legend {
 }
 .woocommerce .woocommerce-message,
 .woocommerce-page .woocommerce-message {
-	background-color: #dff0d8;
-	border-color: #8fae1b;
-	color: #3c763d;
+	background-color: #f8f8f8;
+	border-color: #002367;
+	color: #002367;
+}
+.woocommerce-message::before{
+	color:#042267;
 }
 .woocommerce .woocommerce-error {
 	background-color: #f2dede;
@@ -3570,7 +3586,7 @@ fieldset.change-password legend {
 	font-size: 14px;
 	width: 100%;
 	display: inline-block;
-	background: rgba(0,0,0,.8);
+	background: #b7ccdb
 }
 .article-info .entry-thumbnail + .post-info {
 	position: absolute;
@@ -3611,7 +3627,7 @@ fieldset.change-password legend {
 }
 .article-description a.more-link {
 	padding: 6px 20px;
-	border: 2px solid #000;
+	border: 2px solid #00205b;
 	display: inline-block;
 	letter-spacing: .2em;
 	font-size: 1em;
@@ -3627,7 +3643,7 @@ fieldset.change-password legend {
 	transition: all .3s ease-in-out;
 }
 .article-description a.more-link:hover {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 .article-description a.more-link span {
@@ -3638,7 +3654,7 @@ fieldset.change-password legend {
 	content: 'sticky post';
 	position: absolute;
 	padding: 5px 15px;
-	background: #000;
+	background: #00205b;
 	color: #fff;
 	bottom: 0;
 	right: 0;
@@ -3666,7 +3682,7 @@ fieldset.change-password legend {
 	padding: 0;
 }
 .article-description p a:hover {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 	text-decoration: none;
 }
@@ -3675,15 +3691,15 @@ fieldset.change-password legend {
 	line-height: 24px;
 }
 .article-description form input {
-	border: 1px solid #000;
+	border: 1px solid #00205b;
 	padding: 7px 5px;
 }
 .article-description form input[type="submit"] {
 	background: none;
-	color: #000;
+	color: #00205b;
 	font-weight: bold;
 	text-transform: uppercase;
-	border: 2px solid #000;
+	border: 2px solid #00205b;
 	padding: 6px 20px;
 	-webkit-transition: all .3s;
 	-moz-transition: all .3s;
@@ -3693,7 +3709,7 @@ fieldset.change-password legend {
 }
 .article-description form input[type="submit"]:hover,
 .article-description form input[type="submit"]:focus {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 /* ------------ 7.1 BLOG DETAILS ------------ */
@@ -3743,7 +3759,7 @@ fieldset.change-password legend {
 .author-info {
 	margin-bottom: 50px;
 	padding: 20px;
-	border: 1px solid #000;
+	border: 1px solid #00205b;
 }
 .author-info .author-heading {
 	font-size: 16px;
@@ -3785,7 +3801,7 @@ fieldset.change-password legend {
 	border-bottom: 1px solid;
 }
 .comment-form .logged-in-as a:hover {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 .comment-form-comment label {
@@ -3835,9 +3851,9 @@ fieldset.change-password legend {
 	letter-spacing: 2px;
 }
 #comments.comments-area input.submit:hover {
-	background: #000;
+	background: #00205b;
 	color: #fff;
-	border-color: #000;
+	border-color: #00205b;
 }
 #comments.comments-area > h2 {
 	font-size: 18px;
@@ -3926,12 +3942,12 @@ li.comment ul.children {
 .comment-form p input[type="url"] {
 	width: 100%;
 	padding: 5px;
-	border: 1px solid #000;
+	border: 1px solid #00205b;
 }
 .navigation.comment-navigation {
 	width: 100%;
 	padding-top: 5px;
-	border-top: 1px solid #000;
+	border-top: 1px solid #00205b;
 	margin-bottom: 80px;
 	margin-top: 10px;
 	font-weight: bold;
@@ -3965,16 +3981,16 @@ li.comment ul.children {
 	text-decoration:none;
 	height: 30px;
 	line-height: 30px;
-	color: #000;
-	border: 1px solid #000;
+	color: #00205b;
+	border: 1px solid #00205b;
 	padding: 0 11px;
 }
 .look_pagination a.inactive:hover {
 	color:#fff;
-	background: #000;
+	background: #00205b;
 }
 .pagination .current {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 span.page-count {
@@ -4135,8 +4151,8 @@ span.rss-date {
 	transition: all .3s ease-in-out;
 }
 .side-bar-widget .tagcloud a:hover {
-	background: #000;
-	border-color: #000;
+	background: #00205b;
+	border-color: #00205b;
 	color: #fff;
 }
 .side-bar-widget .tagcloud {
@@ -4181,9 +4197,9 @@ span.rss-date {
 }
 .side-bar-widget .widget_shopping_cart_content a.button {
 	background: #fff none repeat scroll 0 0;
-	border: 2px solid #000;
+	border: 2px solid #00205b;
 	border-radius: 0;
-	color: #000;
+	color: #00205b;
 	font-weight: bold;
 	letter-spacing: 3px;
 	line-height: 1.5;
@@ -4193,7 +4209,7 @@ span.rss-date {
 	float: left;
 }
 .side-bar-widget .widget_shopping_cart_content a.button:hover {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 .side-bar-widget .widget_shopping_cart_content a.button:first-child {
@@ -4227,8 +4243,9 @@ span.rss-date {
 }
 .gallery figure.gallery-item a img {
 	display: block;
-	width: 100%;
+	/* width:100%; */
 	max-width: 100%;
+    margin: 0 auto;
 }
 .gallery .gallery-caption {
 	position: absolute;
@@ -4359,11 +4376,11 @@ span.rss-date {
 }
 .error-404.not-found a {
 	font-weight: bold;
-	border-bottom: 1px solid #000;
+	border-bottom: 1px solid #00205b;
 	padding: 2px 5px;
 }
 .error-404.not-found a:hover {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 /* ==================== 10.0 CONTACT PAGE  ==================== */
@@ -4394,9 +4411,9 @@ span.rss-date {
 	height: 120px;
 }
 .contact-us form input[type="submit"] {
-	border: 2px solid #000;
+	border: 2px solid #00205b;
 	background: #fff;
-	color: #000;
+	color: #00205b;
 	text-transform: uppercase;
 	font-weight: bold;
 	transition: .3s all;
@@ -4407,7 +4424,7 @@ span.rss-date {
 	letter-spacing: 4px;
 }
 .contact-us form input[type="submit"]:hover {
-	background: #000;
+	background: #00205b;
 	color: #fff;
 }
 .contact-social {
@@ -4422,7 +4439,7 @@ span.rss-date {
 	color: #7a7a7a;
 }
 .contact-us .contact-social ul li i:hover {
-	color: #000;
+	color: #00205b;
 }
 /* ==================== 11.0 WISHLIST PAGE  ==================== */
 .woocommerce table.shop_table.wishlist_table {
@@ -4433,7 +4450,7 @@ span.rss-date {
 	text-align: center;
 }
 .woocommerce table.shop_table.wishlist_table tbody td {
-	border-color: #000;
+	border-color: #00205b;
 }
 .woocommerce table.shop_table.wishlist_table thead th.product-name {
 	text-align: left;
@@ -4494,7 +4511,7 @@ a.add_to_wishlist:before {
 a.add_to_wishlist:after {
 	width: 0;
 	height: .125em;
-	background: #333;
+	background: #00205b;
 	position: absolute;
 	left: 50%;
 	bottom: -3px;
@@ -4653,7 +4670,7 @@ a.add_to_wishlist:hover:after {
 }
 .ypop-wrapper button,
 .ypop-content-type .contact-form input[type="submit"] {
-	border: 2px solid #000 !important;
+	border: 2px solid #00205b !important;
 	padding: 8px 25px !important;
 	text-transform: uppercase;
 	letter-spacing: 2px;
@@ -4947,4 +4964,35 @@ a.add_to_wishlist:hover:after {
     .woocommerce-checkout .wc-proceed-to-checkout a.checkout-button {
         font-size: 1.1em;
     }
+}
+
+
+/* La Famiglia Custom CSS */
+
+/* VIDEO */
+#video {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	height: 0;
+    border-top: solid 1px #fff;
+    z-index: 100;
+}
+#video iframe, #video object, #video embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+/* ABOUT US */
+.lf-about-us{
+	padding:15px;
+}
+.lf-about-us p{
+	font-size:30px;
+	line-height: 2.4;
+	color: #00205b;
+	padding: 20px;
 }

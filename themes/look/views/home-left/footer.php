@@ -9,15 +9,6 @@
             <?php endif; ?>
 		</div>
 	</div>
-	<div class="copyright">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-					<p><?php echo (look_get_option('look_footer_text')=='')?  __('The Look &copy;2015 - All Rights Reserved', 'look'): look_get_option('look_footer_text') ; ?> </p>
-				</div>
-			</div>
-		</div>
-	</div>
 </footer>
 <?php endif ?>
 </div>
